@@ -1,0 +1,62 @@
+[
+    {
+        "id": "9",
+        "partnumber": "CA1310E",
+        "number": "1310",
+        "units": null,
+        "description": "RC Phase-Lock-Loop Stereo Decoder",
+        "input": null,
+        "output": null,
+        "pins": null,
+        "package": null,
+        "mounting": "THT",
+        "datasheet": "https:\/\/cdn.datasheetspdf.com\/pdf-down\/C\/A\/1\/CA1310E_RCASolidState.pdf\r",
+        "manufacturer": "",
+        "class": "PLL"
+    },
+    {
+        "id": "50",
+        "partnumber": "NE564N",
+        "number": "564",
+        "units": null,
+        "description": "Phase-Locked Loop",
+        "input": null,
+        "output": null,
+        "pins": null,
+        "package": null,
+        "mounting": "THT",
+        "datasheet": "https:\/\/www.futurlec.com\/Datasheet\/Linear\/NE564N.pdf\r",
+        "manufacturer": "",
+        "class": "PLL"
+    },
+    {
+        "id": "67",
+        "partnumber": "XR567CP",
+        "number": "567",
+        "units": null,
+        "description": "Monolithic Tone Decoder",
+        "input": null,
+        "output": null,
+        "pins": null,
+        "package": null,
+        "mounting": "THT",
+        "datasheet": "https:\/\/cdn.datasheetspdf.com\/pdf-down\/X\/R\/-\/XR-567-Exar.pdf",
+        "manufacturer": "",
+        "class": "PLL"
+    },
+    {
+        "id": "51",
+        "partnumber": "NE568N",
+        "number": "568",
+        "units": null,
+        "description": "Phase-Locked Loop",
+        "input": null,
+        "output": null,
+        "pins": null,
+        "package": null,
+        "mounting": "THT",
+        "datasheet": "https:\/\/pdf1.alldatasheet.com\/datasheet-pdf\/view\/17984\/PHILIPS\/NE568A\/+05885UL.hKpRudSICDGI+\/datasheet.pdf\r",
+        "manufacturer": "",
+        "class": "PLL"
+    }
+]

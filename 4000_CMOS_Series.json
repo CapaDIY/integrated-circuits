@@ -1,1 +1,1802 @@
-[{"0":"4000 ","1":"4000 ","2":"Logic Gates ","3":"2 ","4":"Dual 3-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NOR_gate\" title=\"NOR gate\">NOR gate<\/a> + 1 <a href=\"https:\/\/en.wikipedia.org\/wiki\/Inverter_(logic_gate)\" title=\"Inverter (logic gate)\">NOT gate<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/150\/108513_DS.pdf","99":"4000_CMOS_Series"},{"0":"4001 ","1":"4001 ","2":"Logic Gates ","3":"4 ","4":"Quad 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NOR_gate\" title=\"NOR gate\">NOR gate<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/150\/108513_DS.pdf","99":"4000_CMOS_Series"},{"0":"4002 ","1":"4002 ","2":"Logic Gates ","3":"2 ","4":"Dual 4-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NOR_gate\" title=\"NOR gate\">NOR gate<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/150\/108513_DS.pdf","99":"4000_CMOS_Series"},{"0":"4006 ","1":"4006 ","2":"Shift Registers ","3":"1 ","4":"18-stage <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shift_register\" title=\"Shift register\">shift register<\/a> (four independent with common clock: two 4-stage, two 5-stage with Q4 tap) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/4\/096cakxcerg86i8id610cu0xd4wy.pdf","99":"4000_CMOS_Series"},{"0":"4007 ","1":"4007 ","2":"Analog\/Digital ","3":"2 ","4":"Dual complementary enhanced-MOS transistor pair + 1 <a href=\"https:\/\/en.wikipedia.org\/wiki\/Inverter_(logic_gate)\" title=\"Inverter (logic gate)\">NOT gate<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"https:\/\/www.ti.com\/lit\/ds\/symlink\/cd4007ub.pdf","99":"4000_CMOS_Series"},{"0":"4008 ","1":"4008 ","2":"Adders ","3":"1 ","4":"4-bit binary full <a href=\"https:\/\/en.wikipedia.org\/wiki\/Adder_(electronics)\" title=\"Adder (electronics)\">adder<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets2\/99\/99178_1.pdf","99":"4000_CMOS_Series"},{"0":"4009 ","1":"4009 ","2":"Buffers ","3":"6 ","4":"Hex <a href=\"https:\/\/en.wikipedia.org\/wiki\/Inverter_(logic_gate)\" title=\"Inverter (logic gate)\">inverter<\/a> gate, dual power supply, can drive 1 TTL\/DTL load (replaced by 4049) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/320\/108575_DS.pdf","99":"4000_CMOS_Series"},{"0":"4010 ","1":"4010 ","2":"Buffers ","3":"6 ","4":"Hex <a href=\"https:\/\/en.wikipedia.org\/wiki\/Digital_buffer\" title=\"Digital buffer\">buffer<\/a> gate, dual power supply, can drive 1 TTL\/DTL load (replaced by 4050) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/320\/108575_DS.pdf","99":"4000_CMOS_Series"},{"0":"4011 ","1":"4011 ","2":"Logic Gates ","3":"4 ","4":"Quad 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NAND_gate\" title=\"NAND gate\">NAND gate<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/208\/108647_DS.pdf","99":"4000_CMOS_Series"},{"0":"4012 ","1":"4012 ","2":"Logic Gates ","3":"2 ","4":"Dual 4-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NAND_gate\" title=\"NAND gate\">NAND gate<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/208\/108647_DS.pdf","99":"4000_CMOS_Series"},{"0":"4013 ","1":"4013 ","2":"Flip-Flops ","3":"2 ","4":"Dual D-type <a href=\"https:\/\/en.wikipedia.org\/wiki\/Flip-flop_(electronics)\" title=\"Flip-flop (electronics)\">flip-flop<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/228\/108664_DS.pdf","99":"4000_CMOS_Series"},{"0":"4014 ","1":"4014 ","2":"Shift Registers ","3":"1 ","4":"8-stage parallel in <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shift_register\" title=\"Shift register\">shift register<\/a> (synchronous parallel load, serial in, Q6\/Q7\/Q8 out) (see 4021) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/70\/108688_DS.pdf","99":"4000_CMOS_Series"},{"0":"4015 ","1":"4015 ","2":"Shift Registers ","3":"2 ","4":"Dual 4-stage <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shift_register\" title=\"Shift register\">shift register<\/a> (two independent: serial in, Q1\/Q2\/Q3\/Q4 out, reset, clock) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/228\/108692_DS.pdf","99":"4000_CMOS_Series"},{"0":"4016 ","1":"4016 ","2":"Analog Switches ","3":"4 ","4":"Quad <a href=\"https:\/\/en.wikipedia.org\/wiki\/Analog_switch\" class=\"mw-redirect\" title=\"Analog switch\">bilateral switch<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/270\/108713_DS.pdf","99":"4000_CMOS_Series"},{"0":"4017 ","1":"4017 ","2":"Counters ","3":"1 ","4":"Decade counter with 10 decoded outputs (5-stage <a href=\"https:\/\/en.wikipedia.org\/wiki\/Johnson_counter\" class=\"mw-redirect\" title=\"Johnson counter\">Johnson counter<\/a>) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/320\/108737_DS.pdf","99":"4000_CMOS_Series"},{"0":"4018 ","1":"4018 ","2":"Counters ","3":"1 ","4":"Presettable divide-by-N counter ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/270\/108781_DS.pdf","99":"4000_CMOS_Series"},{"0":"4019 ","1":"4019 ","2":"Logic Gates ","3":"4 ","4":"Quad AND\/OR select <a href=\"https:\/\/en.wikipedia.org\/wiki\/Gate\" title=\"Gate\">gate<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/4\/08ihxuoo2axhzcyojf40it39txcy.pdf","99":"4000_CMOS_Series"},{"0":"4020 ","1":"4020 ","2":"Counters ","3":"1 ","4":"14-stage <a href=\"https:\/\/en.wikipedia.org\/wiki\/Counter_(digital)\" title=\"Counter (digital)\">binary ripple counter<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/9\/0paqd91zcls9g4akywgtgso3y1ky.pdf","99":"4000_CMOS_Series"},{"0":"4021 ","1":"4021 ","2":"Shift Registers ","3":"1 ","4":"8-stage parallel in <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shift_register\" title=\"Shift register\">shift register<\/a> (asynchronous parallel load, serial in, Q6\/Q7\/Q8 out) (see 4014) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/90\/108848_DS.pdf","99":"4000_CMOS_Series"},{"0":"4022 ","1":"4022 ","2":"Counters ","3":"1 ","4":"Octal counter with 8 decoded outputs (4-stage Johnson counter) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/320\/108737_DS.pdf","99":"4000_CMOS_Series"},{"0":"4023 ","1":"4023 ","2":"Logic Gates ","3":"3 ","4":"Triple 3-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NAND_gate\" title=\"NAND gate\">NAND gate<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/134\/108885_DS.pdf","99":"4000_CMOS_Series"},{"0":"4024 ","1":"4024 ","2":"Counters ","3":"1 ","4":"7-stage <a href=\"https:\/\/en.wikipedia.org\/wiki\/Counter_(digital)\" title=\"Counter (digital)\">binary ripple counter<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/9\/0paqd91zcls9g4akywgtgso3y1ky.pdf","99":"4000_CMOS_Series"},{"0":"4025 ","1":"4025 ","2":"Logic Gates ","3":"3 ","4":"Triple 3-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NOR_gate\" title=\"NOR gate\">NOR gate<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/150\/108513_DS.pdf","99":"4000_CMOS_Series"},{"0":"4026 ","1":"4026 ","2":"7-Segment Decoders ","3":"1 ","4":"Decade counter with decoded <a href=\"https:\/\/en.wikipedia.org\/wiki\/Seven-segment_display\" title=\"Seven-segment display\">7-segment display outputs<\/a> and display enable ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/1\/03gjao0ck9g0glqesyly2s563d7y.pdf","99":"4000_CMOS_Series"},{"0":"4027 ","1":"4027 ","2":"Flip-Flops ","3":"2 ","4":"Dual J-K master-slave flip-flop ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/6\/0rowk82e1wfe4yejr5itlgo1tcky.pdf","99":"4000_CMOS_Series"},{"0":"4028 ","1":"4028 ","2":"Multiplexers ","3":"1 ","4":"BCD to decimal (1-of-10) decoder active HIGH output ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/c\/0hxr6urfrdjrdwt9wd8odzsaicky.pdf","99":"4000_CMOS_Series"},{"0":"4029 ","1":"4029 ","2":"Counters ","3":"1 ","4":"Presettable up\/down counter, binary or BCD-decade ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/2\/05uej9xrraz7l6rc4likrej1tapy.pdf","99":"4000_CMOS_Series"},{"0":"4030 ","1":"4030 ","2":"Logic Gates ","3":"4 ","4":"Quad <a href=\"https:\/\/en.wikipedia.org\/wiki\/XOR\" class=\"mw-redirect\" title=\"XOR\">XOR<\/a> gate (replaced by 4070) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/a\/0s3q1u9weefx7gl79f9ha1s3qayy.pdf","99":"4000_CMOS_Series"},{"0":"4031 ","1":"4031 ","2":"Shift Registers ","3":"1 ","4":"64-stage <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shift_register\" title=\"Shift register\">shift register<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/9\/0pjrldxw2xz62r1z0aahd2a36p3y.pdf","99":"4000_CMOS_Series"},{"0":"4032 ","1":"4032 ","2":"Adders ","3":"3 ","4":"Triple serial adder ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Plastic_leaded_chip_carrier\" class=\"mw-redirect\" title=\"Plastic leaded chip carrier\">PLCC<\/a>20 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/270\/84982_DS.pdf","99":"4000_CMOS_Series"},{"0":"4033 ","1":"4033 ","2":"7-Segment Decoders ","3":"1 ","4":"Decade counter with decoded 7-segment display outputs and ripple blanking ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/1\/03gjao0ck9g0glqesyly2s563d7y.pdf","99":"4000_CMOS_Series"},{"0":"4034 ","1":"4034 ","2":"Registers ","3":"1 ","4":"8-stage bidirectional parallel\/serial input\/output register ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>24 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/4\/09p7285l04wpeep3fax6hojqhkcy.pdf","99":"4000_CMOS_Series"},{"0":"4035 ","1":"4035 ","2":"Shift Registers ","3":"1 ","4":"4-stage parallel-in\/parallel-out shift register ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/9\/0og11wds0f9ogj7ffzs7ikl4otky.pdf","99":"4000_CMOS_Series"},{"0":"4038 ","1":"4038 ","2":"Adders ","3":"3 ","4":"Triple serial adder ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Plastic_leaded_chip_carrier\" class=\"mw-redirect\" title=\"Plastic leaded chip carrier\">PLCC<\/a>20 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/270\/84982_DS.pdf","99":"4000_CMOS_Series"},{"0":"4040 ","1":"4040 ","2":"Counters ","3":"1 ","4":"12-stage binary ripple counter ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/9\/0paqd91zcls9g4akywgtgso3y1ky.pdf","99":"4000_CMOS_Series"},{"0":"4041 ","1":"4041 ","2":"Buffers ","3":"4 ","4":"Quad <a href=\"https:\/\/en.wikipedia.org\/wiki\/Buffer_amplifier\" title=\"Buffer amplifier\">buffer<\/a>\/inverter (two outputs for each input) (4 times standard \"B\" drive) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/a\/0s230ap3le6i5l3esx48eklfoccy.pdf","99":"4000_CMOS_Series"},{"0":"4042 ","1":"4042 ","2":"Latches ","3":"4 ","4":"Quad D-type latch ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/9\/0oqf0076icwadgde9su7g9oihq3y.pdf","99":"4000_CMOS_Series"},{"0":"4043 ","1":"4043 ","2":"Latches ","3":"4 ","4":"Quad NOR <a href=\"https:\/\/en.wikipedia.org\/wiki\/Latch_(electronics)\" class=\"mw-redirect\" title=\"Latch (electronics)\">R-S latch<\/a> with <a href=\"https:\/\/en.wikipedia.org\/wiki\/Three-state_logic\" title=\"Three-state logic\">tri-state<\/a> outputs ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/f\/0xjord7w25gp833rh9d7l2sw1swy.pdf","99":"4000_CMOS_Series"},{"0":"4044 ","1":"4044 ","2":"Latches ","3":"4 ","4":"Quad NAND R-S latch with tri-state outputs ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/f\/0xjord7w25gp833rh9d7l2sw1swy.pdf","99":"4000_CMOS_Series"},{"0":"4045 ","1":"4045 ","2":"Counters ","3":"1 ","4":"21-stage counter ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.com\/datasheets_pdf\/C\/D\/4\/0\/CD4045B.shtml","99":"4000_CMOS_Series"},{"0":"4046 ","1":"4046 ","2":"PLL ","3":"1 ","4":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/Phase-locked_loop\" title=\"Phase-locked loop\">Phase-locked loop<\/a> with <a href=\"https:\/\/en.wikipedia.org\/wiki\/Voltage-controlled_oscillator\" title=\"Voltage-controlled oscillator\">VCO<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/6\/0rs2lxolj6lew0llx95wkfal45yy.pdf","99":"4000_CMOS_Series"},{"0":"4047 ","1":"4047 ","2":"Multivibrators ","3":"1 ","4":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/Monostable\" title=\"Monostable\">Monostable<\/a>\/<a href=\"https:\/\/en.wikipedia.org\/wiki\/Astable\" class=\"mw-redirect\" title=\"Astable\">astable<\/a> <a href=\"https:\/\/en.wikipedia.org\/wiki\/Multivibrator\" title=\"Multivibrator\">multivibrator<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/4\/084klcd50i3au7uz078a46e95gyy.pdf","99":"4000_CMOS_Series"},{"0":"4048 ","1":"4048 ","2":"Logic Gates ","3":"1 ","4":"Expandable 8-input 8-function gate with tri-state output,<br \/>choice of: NOR, OR, NAND, AND, <a href=\"https:\/\/en.wikipedia.org\/wiki\/AND-OR-Invert\" title=\"AND-OR-Invert\">AND-NOR<\/a> (AOI), AND-OR, OR-NAND (OAI), OR-AND ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/e\/0lj0i18w98zpxra1z0659l7kehky.pdf","99":"4000_CMOS_Series"},{"0":"4049 ","1":"4049 ","2":"Buffers ","3":"6 ","4":"Hex <a href=\"https:\/\/en.wikipedia.org\/wiki\/Inverter_(logic_gate)\" title=\"Inverter (logic gate)\">inverter<\/a> gate, can drive 2 TTL\/RTL loads or 4 four 74LS loads ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/90\/109092_DS.pdf","99":"4000_CMOS_Series"},{"0":"4050 ","1":"4050 ","2":"Buffers ","3":"6 ","4":"Hex <a href=\"https:\/\/en.wikipedia.org\/wiki\/Digital_buffer\" title=\"Digital buffer\">buffer<\/a> gate, can drive 2 TTL\/RTL loads or 4 four 74LS loads ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/90\/109092_DS.pdf","99":"4000_CMOS_Series"},{"0":"4051 ","1":"4051 ","2":"Analog Switches ","3":"1 ","4":"8-channel analog multiplexer\/<a href=\"https:\/\/en.wikipedia.org\/wiki\/Demultiplexer\" class=\"mw-redirect\" title=\"Demultiplexer\">demultiplexer<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/208\/109138_DS.pdf","99":"4000_CMOS_Series"},{"0":"4052 ","1":"4052 ","2":"Analog Switches ","3":"2 ","4":"Dual 4-channel analog multiplexer\/demultiplexer ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/208\/109138_DS.pdf","99":"4000_CMOS_Series"},{"0":"4053 ","1":"4053 ","2":"Analog Switches ","3":"3 ","4":"Triple 2-channel analog multiplexer\/demultiplexer ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/208\/109138_DS.pdf","99":"4000_CMOS_Series"},{"0":"4054 ","1":"4054 ","2":"LCD Drivers ","3":"1 ","4":"BCD to 7-segment decoder\/<a href=\"https:\/\/en.wikipedia.org\/wiki\/Liquid_crystal_display\" class=\"mw-redirect\" title=\"Liquid crystal display\">LCD<\/a> driver ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/7\/0tfpaepj9r14how0aigyw73k71yy.pdf","99":"4000_CMOS_Series"},{"0":"4055 ","1":"4055 ","2":"LCD Drivers ","3":"1 ","4":"BCD to 7-segment decoder\/LCD driver with \"display-frequency\" output ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/7\/0tfpaepj9r14how0aigyw73k71yy.pdf","99":"4000_CMOS_Series"},{"0":"4056 ","1":"4056 ","2":"LCD Drivers ","3":"1 ","4":"BCD to 7-segment decoder\/LCD driver with strobed-latch function ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/7\/0tfpaepj9r14how0aigyw73k71yy.pdf","99":"4000_CMOS_Series"},{"0":"4059 ","1":"4059 ","2":"Counters ","3":"1 ","4":"Programmable divide-by-N counter ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>24 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/400\/109194_DS.pdf","99":"4000_CMOS_Series"},{"0":"4060 ","1":"4060 ","2":"Counters ","3":"1 ","4":"14-stage binary ripple counter and <a href=\"https:\/\/en.wikipedia.org\/wiki\/Oscillator\" class=\"mw-redirect\" title=\"Oscillator\">oscillator<\/a>, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Schmitt_trigger\" title=\"Schmitt trigger\">schmitt trigger<\/a> inputs ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/4\/084y37fdt83lotw0s2yph6cciryy.pdf","99":"4000_CMOS_Series"},{"0":"4062 ","1":"4062 ","2":" ","3":"? ","4":"Logic dual 3 majority gate ","5":" ","6":"? ","99":"4000_CMOS_Series"},{"0":"4063 ","1":"4063 ","2":"Comparators ","3":"1 ","4":"4-bit <a href=\"https:\/\/en.wikipedia.org\/wiki\/Digital_comparator\" title=\"Digital comparator\">digital comparator<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/b\/0fx5815ioxqyt8wiyxqh7u0soywy.pdf","99":"4000_CMOS_Series"},{"0":"4066 ","1":"4066 ","2":"Analog Switches ","3":"4 ","4":"Quad <a href=\"https:\/\/en.wikipedia.org\/wiki\/Analog_switch\" class=\"mw-redirect\" title=\"Analog switch\">analog switch<\/a> (low \"ON\" resistance) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/c\/0gpox4oc4p1qj95do2kq6qu76rcy.pdf","99":"4000_CMOS_Series"},{"0":"4067 ","1":"4067 ","2":"Analog Switches ","3":"1 ","4":"16-channel analog multiplexer\/demultiplexer (1-of-16 switch) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>24 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/4\/08at55a3urieef4i63yw83u453yy.pdf","99":"4000_CMOS_Series"},{"0":"4068 ","1":"4068 ","2":"Logic Gates ","3":"1 ","4":"8-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NAND_gate\" title=\"NAND gate\">NAND<\/a>\/<a href=\"https:\/\/en.wikipedia.org\/wiki\/AND_gate\" title=\"AND gate\">AND gate<\/a> (2 outputs) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/70\/109237_DS.pdf","99":"4000_CMOS_Series"},{"0":"4069 ","1":"4069 ","2":"Logic Gates ","3":"6 ","4":"Hex inverter ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/90\/206781_DS.pdf","99":"4000_CMOS_Series"},{"0":"4070 ","1":"4070 ","2":"Logic Gates ","3":"4 ","4":"Quad 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/XOR_gate\" title=\"XOR gate\">XOR gate<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/134\/109314_DS.pdf","99":"4000_CMOS_Series"},{"0":"4071 ","1":"4071 ","2":"Logic Gates ","3":"4 ","4":"Quad 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/OR_gate\" title=\"OR gate\">OR gate<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4071B.pdf","99":"4000_CMOS_Series"},{"0":"4072 ","1":"4072 ","2":"Logic Gates ","3":"2 ","4":"Dual 4-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/OR_gate\" title=\"OR gate\">OR gate<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/120\/109273_DS.pdf","99":"4000_CMOS_Series"},{"0":"4073 ","1":"4073 ","2":"Logic Gates ","3":"3 ","4":"Triple 3-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/AND_gate\" title=\"AND gate\">AND gate<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/3\/07ghuh45qzr355t30hpipresu9ky.pdf","99":"4000_CMOS_Series"},{"0":"4075 ","1":"4075 ","2":"Logic Gates ","3":"3 ","4":"Triple 3-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/OR_gate\" title=\"OR gate\">OR gate<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/120\/109273_DS.pdf","99":"4000_CMOS_Series"},{"0":"4076 ","1":"4076 ","2":"Registers ","3":"4 ","4":"Quad D-type register with tri-state outputs ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/intersil\/fn3325.pdf","99":"4000_CMOS_Series"},{"0":"4077 ","1":"4077 ","2":"Logic Gates ","3":"4 ","4":"Quad 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/XNOR_gate\" title=\"XNOR gate\">XNOR gate<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/134\/109314_DS.pdf","99":"4000_CMOS_Series"},{"0":"4078 ","1":"4078 ","2":"Logic Gates ","3":"1 ","4":"8-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NOR_gate\" title=\"NOR gate\">NOR<\/a>\/<a href=\"https:\/\/en.wikipedia.org\/wiki\/OR_gate\" title=\"OR gate\">OR gate<\/a> (2 outputs) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/70\/109327_DS.pdf","99":"4000_CMOS_Series"},{"0":"4081 ","1":"4081 ","2":"Logic Gates ","3":"4 ","4":"Quad 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/AND_gate\" title=\"AND gate\">AND gate<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/185\/109330_DS.pdf","99":"4000_CMOS_Series"},{"0":"4082 ","1":"4082 ","2":"Logic Gates ","3":"2 ","4":"Dual 4-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/AND_gate\" title=\"AND gate\">AND gate<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/intersil\/fn3324.pdf","99":"4000_CMOS_Series"},{"0":"4085 ","1":"4085 ","2":"Logic Gates ","3":"2 ","4":"Dual 2-wide, 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/AND-OR-Invert\" title=\"AND-OR-Invert\">AND-OR-Invert<\/a> (AOI) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/intersil\/fn3324.pdf","99":"4000_CMOS_Series"},{"0":"4086 ","1":"4086 ","2":"Logic Gates ","3":"? ","4":"Expandable 4-wide, 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/AND-OR-Invert\" title=\"AND-OR-Invert\">AND-OR-Invert<\/a> (AOI) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/270\/82688_DS.pdf","99":"4000_CMOS_Series"},{"0":"4089 ","1":"4089 ","2":"Rate Multipliers ","3":"1 ","4":"Binary rate multiplier ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/105\/109353_DS.pdf","99":"4000_CMOS_Series"},{"0":"4093 ","1":"4093 ","2":"Logic Gates ","3":"4 ","4":"Quad 2-input NAND gate, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Schmitt_trigger\" title=\"Schmitt trigger\">schmitt trigger<\/a> inputs ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/90\/109357_DS.pdf","99":"4000_CMOS_Series"},{"0":"4094 ","1":"4094 ","2":"Shift Registers ","3":"1 ","4":"8-stage shift-and-store bus ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/e\/0zfy3x112ch42r82d060wl0jtocy.pdf","99":"4000_CMOS_Series"},{"0":"4095 ","1":"4095 ","2":"Flip-Flops ","3":"1 ","4":"Gated J-K flip-flop (non-inverting) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Plastic_leaded_chip_carrier\" class=\"mw-redirect\" title=\"Plastic leaded chip carrier\">PLCC<\/a>20 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/105\/109379_DS.pdf","99":"4000_CMOS_Series"},{"0":"4096 ","1":"4096 ","2":"Flip-Flops ","3":"1 ","4":"Gated J-K flip-flop (inverting and non-inverting) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Plastic_leaded_chip_carrier\" class=\"mw-redirect\" title=\"Plastic leaded chip carrier\">PLCC<\/a>20 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/105\/109379_DS.pdf","99":"4000_CMOS_Series"},{"0":"4097 ","1":"4097 ","2":"Analog Switches ","3":"1 ","4":"Differential 8-channel analog multiplexer\/demultiplexer ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>24 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/4\/08at55a3urieef4i63yw83u453yy.pdf","99":"4000_CMOS_Series"},{"0":"4098 ","1":"4098 ","2":"Multivibrators ","3":"2 ","4":"Dual one-shot <a href=\"https:\/\/en.wikipedia.org\/wiki\/Monostable\" title=\"Monostable\">monostable<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/120\/109384_DS.pdf","99":"4000_CMOS_Series"},{"0":"4099 ","1":"4099 ","2":"Latches ","3":"1 ","4":"8-bit addressable latch ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/c\/0ho1jgpu09kii6i650li4579diky.pdf","99":"4000_CMOS_Series"},{"0":"4104 ","1":"4104 ","2":"Translators ","3":"4 ","4":"Quad low-to-high voltage translator with tri-state outputs ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4104BN.pdf","99":"4000_CMOS_Series"},{"0":"4106 ","1":"4106 ","2":"Logic Gates ","3":"6 ","4":"Hex <a href=\"https:\/\/en.wikipedia.org\/wiki\/Inverter_(logic_gate)\" title=\"Inverter (logic gate)\">inverter<\/a> gate, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Schmitt_trigger\" title=\"Schmitt trigger\">schmitt trigger<\/a> inputs ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ","6":"http:\/\/pdf.datasheetcatalog.com\/datasheet2\/d\/0j07yw86kkl7j6929ue9u4d7063y.pdf","99":"4000_CMOS_Series"},{"0":"4160 ","1":"4160 ","2":"Counters ","3":"1 ","4":"Decade counter with asynchronous clear ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4161 ","1":"4161 ","2":"Counters ","3":"1 ","4":"4-bit binary counter with asynchronous clear ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4162 ","1":"4162 ","2":"Counters ","3":"1 ","4":"Decade counter with synchronous clear ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4163 ","1":"4163 ","2":"Counters ","3":"1 ","4":"4-bit binary counter with synchronous clear ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4174 ","1":"4174 ","2":"Flip-Flops ","3":"6 ","4":"Hex D-type <a href=\"https:\/\/en.wikipedia.org\/wiki\/Flip-flop_(electronics)\" title=\"Flip-flop (electronics)\">Flip-Flop<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16 ","6":"http:\/\/pdf.datasheetcatalog.com\/datasheet2\/0\/01zt41xyz1tjfo4792lq00thx7py.pdf","99":"4000_CMOS_Series"},{"0":"4175 ","1":"4175 ","2":"Flip-Flops ","3":"4 ","4":"Quad D-type flip-flop ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16 ","6":"http:\/\/pdf.datasheetcatalog.com\/datasheet2\/e\/0zofxho0wazf2i2ylyqi8txxj5fy.pdf","99":"4000_CMOS_Series"},{"0":"4192 ","1":"4192 ","2":"Counters ","3":"1 ","4":"Presettable up-down counter ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4490 ","1":"4490 ","2":" ","3":"6 ","4":"Hex contact bounce eliminator ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16 ","6":"http:\/\/pdf.datasheetcatalog.com\/datasheet2\/2\/05c5rh4ztecl2wfod3lt4fcgptwy.pdf","99":"4000_CMOS_Series"},{"0":"4500 ","1":"4500 ","2":" ","3":"1 ","4":"Industrial control unit ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4502 ","1":"4502 ","2":" ","3":"6 ","4":"Hex inverting <a href=\"https:\/\/en.wikipedia.org\/wiki\/Buffer_amplifier\" title=\"Buffer amplifier\">buffer<\/a> (tri-state) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/d\/0jgqkg8g06iu33wlaz5ap7uzwo3y.pdf","99":"4000_CMOS_Series"},{"0":"4503 ","1":"4503 ","2":" ","3":"6 ","4":"Hex non-inverting <a href=\"https:\/\/en.wikipedia.org\/wiki\/Buffer_amplifier\" title=\"Buffer amplifier\">buffer<\/a> with tri-state outputs ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/134\/109496_DS.pdf","99":"4000_CMOS_Series"},{"0":"4504 ","1":"4504 ","2":"Translators ","3":"6 ","4":"Hex voltage level shifter for TTL-to-CMOS or CMOS-to-CMOS operation ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/37\/109510_DS.pdf","99":"4000_CMOS_Series"},{"0":"4505 ","1":"4505 ","2":" ","3":"1 ","4":"64-bit, 1-bit per word random access memory (RAM) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14 ","6":"http:\/\/pdf.datasheetcatalog.com\/datasheet\/philips\/HEF4505BD.pdf","99":"4000_CMOS_Series"},{"0":"4508 ","1":"4508 ","2":"Latches ","3":"2 ","4":"Dual 4-bit latch with tri-state outputs ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>24 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/0\/01owlws9adq8o9xrqsjtd7x19xyy.pdf","99":"4000_CMOS_Series"},{"0":"4510 ","1":"4510 ","2":"Counters ","3":"1 ","4":"Presettable 4-bit BCD up\/down counter ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/74HC4510.pdf","99":"4000_CMOS_Series"},{"0":"4511 ","1":"4511 ","2":"7-Segment Decoders ","3":"1 ","4":"BCD to 7-segment latch\/decoder\/driver ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/150\/109579_DS.pdf","99":"4000_CMOS_Series"},{"0":"4512 ","1":"4512 ","2":"Multiplexers ","3":"1 ","4":"8-input multiplexer (data selector) with tri-state output ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"https:\/\/web.archive.org\/web\/20120307032607\/http:\/\/www.datasheetcatalog.org\/datasheet\/nationalsemiconductor\/DS005993.PDF","99":"4000_CMOS_Series"},{"0":"4513 ","1":"4513 ","2":"7-Segment Decoders ","3":"1 ","4":"BCD to 7-segment latch\/decoder\/driver (4511 plus ripple blanking) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>18 ","6":"http:\/\/pdf.datasheetcatalog.com\/datasheet2\/6\/0e9ilputc7k58dst6qquf7pi6yyy.pdf","99":"4000_CMOS_Series"},{"0":"4514 ","1":"4514 ","2":"Multiplexers ","3":"1 ","4":"1-of-16 decoder\/demultiplexer active HIGH output ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>24 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/90\/109549_DS.pdf","99":"4000_CMOS_Series"},{"0":"4515 ","1":"4515 ","2":"Multiplexers ","3":"1 ","4":"1-of-16 decoder\/demultiplexer active LOW output ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>24 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/90\/109549_DS.pdf","99":"4000_CMOS_Series"},{"0":"4516 ","1":"4516 ","2":"Counters ","3":"1 ","4":"Presettable 4-bit binary up\/down counter ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/pdf.datasheetcatalog.com\/datasheet2\/d\/0jszj0cfac1x7istx80lq2qd4wky.pdf","99":"4000_CMOS_Series"},{"0":"4517 ","1":"4517 ","2":"Shift Registers ","3":"2 ","4":"Dual 64-stage shift register ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16 ","6":"http:\/\/pdf.datasheetcatalog.com\/datasheets\/120\/109582_DS.pdf","99":"4000_CMOS_Series"},{"0":"4518 ","1":"4518 ","2":"Counters ","3":"2 ","4":"Dual BCD up counter ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/120\/109587_DS.pdf","99":"4000_CMOS_Series"},{"0":"4519 ","1":"4519 ","2":" ","3":"4 ","4":"Quad 2-input multiplexer (data selector) ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/208\/82779_DS.pdf","99":"4000_CMOS_Series"},{"0":"4520 ","1":"4520 ","2":"Counters ","3":"2 ","4":"Dual 4-bit binary up counter ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.alldatasheet.com\/datasheet-pdf\/pdf\/26909\/TI\/CD4520.html","99":"4000_CMOS_Series"},{"0":"4521 ","1":"4521 ","2":" ","3":"1 ","4":"24-stage frequency divider ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4522 ","1":"4522 ","2":" ","3":"1 ","4":"Programmable BCD divide-by-N counter ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4526 ","1":"4526 ","2":"Counters ","3":"1 ","4":"Programmable 4-bit binary down counter ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4527 ","1":"4527 ","2":" ","3":"1 ","4":"BCD rate multiplier ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/270\/109596_DS.pdf","99":"4000_CMOS_Series"},{"0":"4528 ","1":"4528 ","2":" ","3":"2 ","4":"Dual <a href=\"https:\/\/en.wikipedia.org\/wiki\/Retriggerable_monostable\" class=\"mw-redirect\" title=\"Retriggerable monostable\">retriggerable monostable<\/a> multivibrator with reset ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4528BF.pdf","99":"4000_CMOS_Series"},{"0":"4529 ","1":"4529 ","2":"Analog ","3":"2 ","4":"Dual 4-channel analog data selector\/multiplexer ","5":" ","6":"https:\/\/web.archive.org\/web\/20141024025628\/http:\/\/www.abra-electronics.com\/products\/4529-IC-CMOS-Dual-4-Channel-Analog-Data-Selector%7B47%7DMultiplexer.html","99":"4000_CMOS_Series"},{"0":"4530 ","1":"4530 ","2":" ","3":"2 ","4":"Dual 5-input majority logical gate ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4531 ","1":"4531 ","2":" ","3":"1 ","4":"12-bit parity tree ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4532 ","1":"4532 ","2":"Multiplexers ","3":"1 ","4":"8-bit <a href=\"https:\/\/en.wikipedia.org\/wiki\/Priority_encoder\" title=\"Priority encoder\">priority encoder<\/a> ","5":" ","6":"http:\/\/focus.ti.com\/lit\/ds\/symlink\/cd4532b.pdf","99":"4000_CMOS_Series"},{"0":"4536 ","1":"4536 ","2":"Timers ","3":"1 ","4":"Programmable timer ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/400\/82805_DS.pdf","99":"4000_CMOS_Series"},{"0":"4538 ","1":"4538 ","2":" ","3":"2 ","4":"Dual retriggerable precision monostable multivibrator ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/6\/0exa9lpxw3ik4p5pdpigp5rf62ky.pdf","99":"4000_CMOS_Series"},{"0":"4539 ","1":"4539 ","2":" ","3":"2 ","4":"Dual 4-input multiplexer ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4539BF.pdf","99":"4000_CMOS_Series"},{"0":"4541 ","1":"4541 ","2":"Timers ","3":"1 ","4":"Programmable timer ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4541B.pdf","99":"4000_CMOS_Series"},{"0":"4543 ","1":"4543 ","2":"7-Segment Decoders ","3":"1 ","4":"BCD to 7-segment latch\/decoder\/driver with phase input ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4543BF.pdf","99":"4000_CMOS_Series"},{"0":"4549 ","1":"4549 ","2":" ","3":"1 ","4":"Successive approximation registers ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4551 ","1":"4551 ","2":"Analog Switches ","3":"4 ","4":"Quad 2-channel analog multiplexer\/demultiplexer ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4553 ","1":"4553 ","2":"Counters ","3":"1 ","4":"3-digit BCD counter ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/105\/501162_DS.pdf","99":"4000_CMOS_Series"},{"0":"4555 ","1":"4555 ","2":"Multiplexers ","3":"2 ","4":"Dual 1-of-4 decoder\/demultiplexer active HIGH output ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4555BP.pdf","99":"4000_CMOS_Series"},{"0":"4556 ","1":"4556 ","2":"Multiplexers ","3":"2 ","4":"Dual 1-of-4 decoder\/demultiplexer active LOW output ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4556BF.pdf","99":"4000_CMOS_Series"},{"0":"4557 ","1":"4557 ","2":"Shift Registers ","3":"1 ","4":"1-to-64 stage variable length <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shift_register\" title=\"Shift register\">shift register<\/a> ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4557BF.pdf","99":"4000_CMOS_Series"},{"0":"4558 ","1":"4558 ","2":"7-Segment Decoders ","3":"1 ","4":"BCD to 7-segment decoder (enable, RBI and provides active\u2013high output) ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4559 ","1":"4559 ","2":" ","3":"1 ","4":"Successive approximation registers ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4560 ","1":"4560 ","2":"Adders ","3":"1 ","4":"<a href=\"\/w\/index.php?title=NBCD_adder&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"NBCD adder (page does not exist)\">NBCD adder<\/a> ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/208\/82835_DS.pdf","99":"4000_CMOS_Series"},{"0":"4561 ","1":"4561 ","2":" ","3":"1 ","4":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/Method_of_complements\" title=\"Method of complements\">9's complementer<\/a> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16 ","6":" ","99":"4000_CMOS_Series"},{"0":"4562 ","1":"4562 ","2":" ","3":"1 ","4":"128\u2013bit static shift register ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4566 ","1":"4566 ","2":" ","3":"1 ","4":"Industrial <a href=\"\/w\/index.php?title=Time-base_generator&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Time-base generator (page does not exist)\">time-base generator<\/a> ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/HitachiSemiconductor\/mXtyrxx.pdf","99":"4000_CMOS_Series"},{"0":"4569 ","1":"4569 ","2":"Counters ","3":"1 ","4":"Programmable divide-By-N, dual 4-Bit binary\/BCD down counter ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4572 ","1":"4572 ","2":"Logic Gates ","3":"6 ","4":"Hex gate: quad <a href=\"https:\/\/en.wikipedia.org\/wiki\/NOT_gate\" class=\"mw-redirect\" title=\"NOT gate\">inverter<\/a> gate, single 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NAND_gate\" title=\"NAND gate\">NAND<\/a> gate, single 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NOR_gate\" title=\"NOR gate\">NOR<\/a> gate ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/SGSThomsonMicroelectronics\/mXursxu.pdf","99":"4000_CMOS_Series"},{"0":"4583 ","1":"4583 ","2":" ","3":"2 ","4":"Dual adjustable <a href=\"https:\/\/en.wikipedia.org\/wiki\/Schmitt_trigger\" title=\"Schmitt trigger\">schmitt trigger<\/a> inputs, each with buffer and inverter outputs, and XOR output ","5":" ","6":"http:\/\/www.nteinc.com\/specs\/4500to4599\/pdf\/nte4583B.pdf","99":"4000_CMOS_Series"},{"0":"4584 ","1":"4584 ","2":"Logic Gates ","3":"6 ","4":"Hex <a href=\"https:\/\/en.wikipedia.org\/wiki\/Inverter_(logic_gate)\" title=\"Inverter (logic gate)\">inverter<\/a> gate, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Schmitt_trigger\" title=\"Schmitt trigger\">schmitt trigger<\/a> inputs ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/HitachiSemiconductor\/mXurtwx.pdf","99":"4000_CMOS_Series"},{"0":"4585 ","1":"4585 ","2":" ","3":"1 ","4":"4-bit <a href=\"https:\/\/en.wikipedia.org\/wiki\/Digital_comparator\" title=\"Digital comparator\">digital comparator<\/a> ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/6\/0egseq3e7syw8dki90dsphwazxcy.pdf","99":"4000_CMOS_Series"},{"0":"4724 ","1":"4724 ","2":" ","3":"1 ","4":"8-bit addressable latch ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4750 ","1":"4750 ","2":" ","3":"1 ","4":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/Frequency_synthesizer\" title=\"Frequency synthesizer\">Frequency synthesizer<\/a> ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4750VF.pdf","99":"4000_CMOS_Series"},{"0":"4751 ","1":"4751 ","2":" ","3":"1 ","4":"Universal divider ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4794 ","1":"4794 ","2":" ","3":"1 ","4":"8-stage shift-and-store register <a href=\"https:\/\/en.wikipedia.org\/wiki\/LED\" class=\"mw-redirect\" title=\"LED\">LED<\/a> driver ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4894 ","1":"4894 ","2":" ","3":"1 ","4":"12-stage shift-and-store register LED driver ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4938 ","1":"4938 ","2":" ","3":"2 ","4":"Dual retriggerable precision <a href=\"\/w\/index.php?title=Monostable_multivibrator&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Monostable multivibrator (page does not exist)\">monostable multivibrator<\/a> with reset ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"4952 ","1":"4952 ","2":"Analog ","3":"1 ","4":"8-channel analog multiplexer\/demultiplexer ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40098 ","1":"40098 ","2":" ","3":"6 ","4":"Hex 3-state inverting buffer ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40100 ","1":"40100 ","2":"Shift Registers ","3":"1 ","4":"32-stage left\/right <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shift_register\" title=\"Shift register\">shift register<\/a> ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/70\/108585_DS.pdf","99":"4000_CMOS_Series"},{"0":"40101 ","1":"40101 ","2":" ","3":"1 ","4":"9-bit parity generator\/checker ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40102 ","1":"40102 ","2":"Counters ","3":"1 ","4":"Presettable 2-decade BCD down counter ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40103 ","1":"40103 ","2":"Counters ","3":"1 ","4":"Presettable 8-bit binary down counter ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40104 ","1":"40104 ","2":" ","3":"1 ","4":"4-bit bidirectional parallel-in\/parallel-out shift register (tri-state) ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40105 ","1":"40105 ","2":" ","3":"1 ","4":"4-bit x 16 word <a href=\"https:\/\/en.wikipedia.org\/wiki\/FIFO_(computing_and_electronics)\" title=\"FIFO (computing and electronics)\">FIFO<\/a> register ","5":" ","6":"http:\/\/www.ti.com\/lit\/ds\/symlink\/cd74hc40105.pdf","99":"4000_CMOS_Series"},{"0":"40106 ","1":"40106 ","2":"Logic Gates ","3":"6 ","4":"Hex <a href=\"https:\/\/en.wikipedia.org\/wiki\/Inverter_(logic_gate)\" title=\"Inverter (logic gate)\">inverter<\/a> gate, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Schmitt_trigger\" title=\"Schmitt trigger\">schmitt trigger<\/a> inputs ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/fairchild\/CD40106BC.pdf","99":"4000_CMOS_Series"},{"0":"40107 ","1":"40107 ","2":" ","3":"2 ","4":"Dual 2-input NAND gate with 136 mA <a href=\"https:\/\/en.wikipedia.org\/wiki\/Open_collector#MOSFET\" title=\"Open collector\">open-drain<\/a> driver (32 times standard \"B\" sink) ","5":"DIP8 ","6":" ","99":"4000_CMOS_Series"},{"0":"40108 ","1":"40108 ","2":" ","3":"1 ","4":"4x4-bit (tri-state) synchronous triple-port register file ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40109 ","1":"40109 ","2":"Translators ","3":"4 ","4":"Quad level shifter ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/SGSThomsonMicroelectronics\/mXwwwy.pdf","99":"4000_CMOS_Series"},{"0":"40110 ","1":"40110 ","2":" ","3":"1 ","4":"Up\/down decade counter, latch, 7-segment decoder, LED driver ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40116 ","1":"40116 ","2":"Translators ","3":"1 ","4":"8-bit bidirectional CMOS-to-<a href=\"https:\/\/en.wikipedia.org\/wiki\/Transistor%E2%80%93transistor_logic\" title=\"Transistor\u2013transistor logic\">TTL<\/a> level converter ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40117 ","1":"40117 ","2":" ","3":"1 ","4":"Programmable dual 4-bit terminator ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40147 ","1":"40147 ","2":" ","3":"1 ","4":"10-line to 4-line (BCD) priority encoder ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/90\/108684_DS.pdf","99":"4000_CMOS_Series"},{"0":"40160 ","1":"40160 ","2":"Counters ","3":"1 ","4":"Decade counter\/asynchronous clear ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40161 ","1":"40161 ","2":"Counters ","3":"1 ","4":"Binary counter\/asynchronous clear ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40162 ","1":"40162 ","2":"Counters ","3":"1 ","4":"4-bit <a href=\"https:\/\/en.wikipedia.org\/wiki\/Synchronization_(computer_science)\" title=\"Synchronization (computer science)\">synchronous<\/a> decade counter with load, reset, and <a href=\"\/w\/index.php?title=Ripple_carry&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ripple carry (page does not exist)\">ripple carry<\/a> output ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40163 ","1":"40163 ","2":"Counters ","3":"1 ","4":"4-bit synchronous binary counter with load, reset, and ripple carry output ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40174 ","1":"40174 ","2":"Flip-Flops ","3":"6 ","4":"Hex D-type <a href=\"https:\/\/en.wikipedia.org\/wiki\/Flip-flop_(electronics)\" title=\"Flip-flop (electronics)\">flip-flop<\/a> ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40175 ","1":"40175 ","2":"Flip-Flops ","3":"4 ","4":"Quad D-type <a href=\"https:\/\/en.wikipedia.org\/wiki\/Flip-flop_(electronics)\" title=\"Flip-flop (electronics)\">flip-flop<\/a> ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40181 ","1":"40181 ","2":" ","3":"1 ","4":"4-bit 16-function <a href=\"https:\/\/en.wikipedia.org\/wiki\/Arithmetic_logic_unit\" title=\"Arithmetic logic unit\">arithmetic logic unit<\/a> ","5":" ","6":"https:\/\/www.alldatasheet.com\/datasheet-pdf\/pdf\/66414\/INTERSIL\/CD40181.html","99":"4000_CMOS_Series"},{"0":"40192 ","1":"40192 ","2":"Counters ","3":"1 ","4":"Presettable 4-bit up\/down BCD counter ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/150\/108806_DS.pdf","99":"4000_CMOS_Series"},{"0":"40193 ","1":"40193 ","2":"Counters ","3":"1 ","4":"Presettable 4-bit up\/down binary counter ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ","6":"http:\/\/www.datasheetcatalog.org\/datasheets\/150\/108806_DS.pdf","99":"4000_CMOS_Series"},{"0":"40194 ","1":"40194 ","2":"Shift Registers ","3":"1 ","4":"4-bit bidirectional universal <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shift_register\" title=\"Shift register\">shift register<\/a> ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheet2\/3\/0755oj0uciyc8hu2idsj1jgce1ky.pdf","99":"4000_CMOS_Series"},{"0":"40195 ","1":"40195 ","2":"Shift Registers ","3":"1 ","4":"4-bit universal <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shift_register\" title=\"Shift register\">shift register<\/a> ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40208 ","1":"40208 ","2":" ","3":"1 ","4":"4 x 4-bit (tri-state) synchronous triple-port <a href=\"https:\/\/en.wikipedia.org\/wiki\/Register_file\" title=\"Register file\">register file<\/a> ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40240 ","1":"40240 ","2":" ","3":"1 ","4":"Buffer\/<a href=\"https:\/\/en.wikipedia.org\/wiki\/Line-level\" class=\"mw-redirect\" title=\"Line-level\">Line driver<\/a>; inverting (tri-state) ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40244 ","1":"40244 ","2":" ","3":"1 ","4":"Buffer\/line driver; non-inverting (tri-state) ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40245 ","1":"40245 ","2":" ","3":"1 ","4":"Octal <a href=\"\/w\/index.php?title=Bus_transceiver&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Bus transceiver (page does not exist)\">bus transceiver<\/a>; (tri-state) outputs ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40257 ","1":"40257 ","2":" ","3":"4 ","4":"Quad 2-line to 1-line data selector\/multiplexer (tri-state) ","5":" ","6":" ","99":"4000_CMOS_Series"},{"0":"40373 ","1":"40373 ","2":"Latches ","3":"1 ","4":"Octal D-type <a href=\"https:\/\/en.wikipedia.org\/wiki\/Transparent_latch\" class=\"mw-redirect\" title=\"Transparent latch\">transparent latch<\/a> (tri-state) ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF40373BF.pdf","99":"4000_CMOS_Series"},{"0":"40374 ","1":"40374 ","2":"Flip-Flops ","3":"1 ","4":"Octal D-type <a href=\"https:\/\/en.wikipedia.org\/wiki\/Flip-flop_(electronics)\" title=\"Flip-flop (electronics)\">flip-flop<\/a>; positive-edge trigger (tri-state) ","5":" ","6":"http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF40374BN.pdf","99":"4000_CMOS_Series"},{"0":"40501 ","1":"40501 ","2":"Buffers ","3":"6 ","4":"Hex <a href=\"https:\/\/en.wikipedia.org\/wiki\/Buffer_amplifier\" title=\"Buffer amplifier\">buffer<\/a>\/converter (non-inverting) (pinout variant of 4050)<sup id=\"cite_ref-Schlenzig_1987_Kleincomputer_8-1\" class=\"reference\"><a href=\"https:\/\/en.wikipedia.org\/wiki\/List_of_4000-series_integrated_circuits#cite_note-Schlenzig_1987_Kleincomputer-8\"><\/a><\/sup> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16 ","6":" ","99":"4000_CMOS_Series"},{"0":"40511 ","1":"40511 ","2":"7-Segment Decoders ","3":"1 ","4":"BCD 7-segment decoder, hexadecimal, active high<sup id=\"cite_ref-Schlenzig_1987_Kleincomputer_8-2\" class=\"reference\"><a href=\"https:\/\/en.wikipedia.org\/wiki\/List_of_4000-series_integrated_circuits#cite_note-Schlenzig_1987_Kleincomputer-8\"><\/a><\/sup> ","5":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16 ","6":" ","99":"4000_CMOS_Series"},{"0":"45106 ","1":"45106 ","2":" ","3":"1 ","4":"<a href=\"https:\/\/en.wikipedia.org\/wiki\/Frequency_synthesizer\" title=\"Frequency synthesizer\">frequency synthesizer<\/a> ","5":" ","6":" ","99":"4000_CMOS_Series"}]
+[
+    {
+        "0": "4000 ",
+        "1": "4000 ",
+        "2": "Logic Gates ",
+        "3": "2 ",
+        "4": "Dual 3-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NOR_gate\" title=\"NOR gate\">NOR gate<\/a> + 1 <a href=\"https:\/\/en.wikipedia.org\/wiki\/Inverter_(logic_gate)\" title=\"Inverter (logic gate)\">NOT gate<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/150\/108513_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4001 ",
+        "1": "4001 ",
+        "2": "Logic Gates ",
+        "3": "4 ",
+        "4": "Quad 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NOR_gate\" title=\"NOR gate\">NOR gate<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/150\/108513_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4002 ",
+        "1": "4002 ",
+        "2": "Logic Gates ",
+        "3": "2 ",
+        "4": "Dual 4-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NOR_gate\" title=\"NOR gate\">NOR gate<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/150\/108513_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4006 ",
+        "1": "4006 ",
+        "2": "Shift Registers ",
+        "3": "1 ",
+        "4": "18-stage <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shift_register\" title=\"Shift register\">shift register<\/a> (four independent with common clock: two 4-stage, two 5-stage with Q4 tap) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/4\/096cakxcerg86i8id610cu0xd4wy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4007 ",
+        "1": "4007 ",
+        "2": "Analog\/Digital ",
+        "3": "2 ",
+        "4": "Dual complementary enhanced-MOS transistor pair + 1 <a href=\"https:\/\/en.wikipedia.org\/wiki\/Inverter_(logic_gate)\" title=\"Inverter (logic gate)\">NOT gate<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "https:\/\/www.ti.com\/lit\/ds\/symlink\/cd4007ub.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4008 ",
+        "1": "4008 ",
+        "2": "Adders ",
+        "3": "1 ",
+        "4": "4-bit binary full <a href=\"https:\/\/en.wikipedia.org\/wiki\/Adder_(electronics)\" title=\"Adder (electronics)\">adder<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets2\/99\/99178_1.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4009 ",
+        "1": "4009 ",
+        "2": "Buffers ",
+        "3": "6 ",
+        "4": "Hex <a href=\"https:\/\/en.wikipedia.org\/wiki\/Inverter_(logic_gate)\" title=\"Inverter (logic gate)\">inverter<\/a> gate, dual power supply, can drive 1 TTL\/DTL load (replaced by 4049) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/320\/108575_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4010 ",
+        "1": "4010 ",
+        "2": "Buffers ",
+        "3": "6 ",
+        "4": "Hex <a href=\"https:\/\/en.wikipedia.org\/wiki\/Digital_buffer\" title=\"Digital buffer\">buffer<\/a> gate, dual power supply, can drive 1 TTL\/DTL load (replaced by 4050) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/320\/108575_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4011 ",
+        "1": "4011 ",
+        "2": "Logic Gates ",
+        "3": "4 ",
+        "4": "Quad 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NAND_gate\" title=\"NAND gate\">NAND gate<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/208\/108647_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4012 ",
+        "1": "4012 ",
+        "2": "Logic Gates ",
+        "3": "2 ",
+        "4": "Dual 4-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NAND_gate\" title=\"NAND gate\">NAND gate<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/208\/108647_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4013 ",
+        "1": "4013 ",
+        "2": "Flip-Flops ",
+        "3": "2 ",
+        "4": "Dual D-type <a href=\"https:\/\/en.wikipedia.org\/wiki\/Flip-flop_(electronics)\" title=\"Flip-flop (electronics)\">flip-flop<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/228\/108664_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4014 ",
+        "1": "4014 ",
+        "2": "Shift Registers ",
+        "3": "1 ",
+        "4": "8-stage parallel in <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shift_register\" title=\"Shift register\">shift register<\/a> (synchronous parallel load, serial in, Q6\/Q7\/Q8 out) (see 4021) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/70\/108688_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4015 ",
+        "1": "4015 ",
+        "2": "Shift Registers ",
+        "3": "2 ",
+        "4": "Dual 4-stage <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shift_register\" title=\"Shift register\">shift register<\/a> (two independent: serial in, Q1\/Q2\/Q3\/Q4 out, reset, clock) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/228\/108692_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4016 ",
+        "1": "4016 ",
+        "2": "Analog Switches ",
+        "3": "4 ",
+        "4": "Quad <a href=\"https:\/\/en.wikipedia.org\/wiki\/Analog_switch\" class=\"mw-redirect\" title=\"Analog switch\">bilateral switch<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/270\/108713_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4017 ",
+        "1": "4017 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "Decade counter with 10 decoded outputs (5-stage <a href=\"https:\/\/en.wikipedia.org\/wiki\/Johnson_counter\" class=\"mw-redirect\" title=\"Johnson counter\">Johnson counter<\/a>) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/320\/108737_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4018 ",
+        "1": "4018 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "Presettable divide-by-N counter ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/270\/108781_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4019 ",
+        "1": "4019 ",
+        "2": "Logic Gates ",
+        "3": "4 ",
+        "4": "Quad AND\/OR select <a href=\"https:\/\/en.wikipedia.org\/wiki\/Gate\" title=\"Gate\">gate<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/4\/08ihxuoo2axhzcyojf40it39txcy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4020 ",
+        "1": "4020 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "14-stage <a href=\"https:\/\/en.wikipedia.org\/wiki\/Counter_(digital)\" title=\"Counter (digital)\">binary ripple counter<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/9\/0paqd91zcls9g4akywgtgso3y1ky.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4021 ",
+        "1": "4021 ",
+        "2": "Shift Registers ",
+        "3": "1 ",
+        "4": "8-stage parallel in <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shift_register\" title=\"Shift register\">shift register<\/a> (asynchronous parallel load, serial in, Q6\/Q7\/Q8 out) (see 4014) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/90\/108848_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4022 ",
+        "1": "4022 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "Octal counter with 8 decoded outputs (4-stage Johnson counter) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/320\/108737_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4023 ",
+        "1": "4023 ",
+        "2": "Logic Gates ",
+        "3": "3 ",
+        "4": "Triple 3-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NAND_gate\" title=\"NAND gate\">NAND gate<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/134\/108885_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4024 ",
+        "1": "4024 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "7-stage <a href=\"https:\/\/en.wikipedia.org\/wiki\/Counter_(digital)\" title=\"Counter (digital)\">binary ripple counter<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/9\/0paqd91zcls9g4akywgtgso3y1ky.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4025 ",
+        "1": "4025 ",
+        "2": "Logic Gates ",
+        "3": "3 ",
+        "4": "Triple 3-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NOR_gate\" title=\"NOR gate\">NOR gate<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/150\/108513_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4026 ",
+        "1": "4026 ",
+        "2": "7-Segment Decoders ",
+        "3": "1 ",
+        "4": "Decade counter with decoded <a href=\"https:\/\/en.wikipedia.org\/wiki\/Seven-segment_display\" title=\"Seven-segment display\">7-segment display outputs<\/a> and display enable ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/1\/03gjao0ck9g0glqesyly2s563d7y.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4027 ",
+        "1": "4027 ",
+        "2": "Flip-Flops ",
+        "3": "2 ",
+        "4": "Dual J-K master-slave flip-flop ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/6\/0rowk82e1wfe4yejr5itlgo1tcky.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4028 ",
+        "1": "4028 ",
+        "2": "Multiplexers ",
+        "3": "1 ",
+        "4": "BCD to decimal (1-of-10) decoder active HIGH output ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/c\/0hxr6urfrdjrdwt9wd8odzsaicky.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4029 ",
+        "1": "4029 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "Presettable up\/down counter, binary or BCD-decade ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/2\/05uej9xrraz7l6rc4likrej1tapy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4030 ",
+        "1": "4030 ",
+        "2": "Logic Gates ",
+        "3": "4 ",
+        "4": "Quad <a href=\"https:\/\/en.wikipedia.org\/wiki\/XOR\" class=\"mw-redirect\" title=\"XOR\">XOR<\/a> gate (replaced by 4070) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/a\/0s3q1u9weefx7gl79f9ha1s3qayy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4031 ",
+        "1": "4031 ",
+        "2": "Shift Registers ",
+        "3": "1 ",
+        "4": "64-stage <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shift_register\" title=\"Shift register\">shift register<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/9\/0pjrldxw2xz62r1z0aahd2a36p3y.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4032 ",
+        "1": "4032 ",
+        "2": "Adders ",
+        "3": "3 ",
+        "4": "Triple serial adder ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Plastic_leaded_chip_carrier\" class=\"mw-redirect\" title=\"Plastic leaded chip carrier\">PLCC<\/a>20 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/270\/84982_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4033 ",
+        "1": "4033 ",
+        "2": "7-Segment Decoders ",
+        "3": "1 ",
+        "4": "Decade counter with decoded 7-segment display outputs and ripple blanking ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/1\/03gjao0ck9g0glqesyly2s563d7y.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4034 ",
+        "1": "4034 ",
+        "2": "Registers ",
+        "3": "1 ",
+        "4": "8-stage bidirectional parallel\/serial input\/output register ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>24 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/4\/09p7285l04wpeep3fax6hojqhkcy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4035 ",
+        "1": "4035 ",
+        "2": "Shift Registers ",
+        "3": "1 ",
+        "4": "4-stage parallel-in\/parallel-out shift register ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/9\/0og11wds0f9ogj7ffzs7ikl4otky.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4038 ",
+        "1": "4038 ",
+        "2": "Adders ",
+        "3": "3 ",
+        "4": "Triple serial adder ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Plastic_leaded_chip_carrier\" class=\"mw-redirect\" title=\"Plastic leaded chip carrier\">PLCC<\/a>20 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/270\/84982_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4040 ",
+        "1": "4040 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "12-stage binary ripple counter ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/9\/0paqd91zcls9g4akywgtgso3y1ky.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4041 ",
+        "1": "4041 ",
+        "2": "Buffers ",
+        "3": "4 ",
+        "4": "Quad <a href=\"https:\/\/en.wikipedia.org\/wiki\/Buffer_amplifier\" title=\"Buffer amplifier\">buffer<\/a>\/inverter (two outputs for each input) (4 times standard \"B\" drive) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/a\/0s230ap3le6i5l3esx48eklfoccy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4042 ",
+        "1": "4042 ",
+        "2": "Latches ",
+        "3": "4 ",
+        "4": "Quad D-type latch ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/9\/0oqf0076icwadgde9su7g9oihq3y.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4043 ",
+        "1": "4043 ",
+        "2": "Latches ",
+        "3": "4 ",
+        "4": "Quad NOR <a href=\"https:\/\/en.wikipedia.org\/wiki\/Latch_(electronics)\" class=\"mw-redirect\" title=\"Latch (electronics)\">R-S latch<\/a> with <a href=\"https:\/\/en.wikipedia.org\/wiki\/Three-state_logic\" title=\"Three-state logic\">tri-state<\/a> outputs ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/f\/0xjord7w25gp833rh9d7l2sw1swy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4044 ",
+        "1": "4044 ",
+        "2": "Latches ",
+        "3": "4 ",
+        "4": "Quad NAND R-S latch with tri-state outputs ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/f\/0xjord7w25gp833rh9d7l2sw1swy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4045 ",
+        "1": "4045 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "21-stage counter ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.com\/datasheets_pdf\/C\/D\/4\/0\/CD4045B.shtml",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4046 ",
+        "1": "4046 ",
+        "2": "PLL ",
+        "3": "1 ",
+        "4": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/Phase-locked_loop\" title=\"Phase-locked loop\">Phase-locked loop<\/a> with <a href=\"https:\/\/en.wikipedia.org\/wiki\/Voltage-controlled_oscillator\" title=\"Voltage-controlled oscillator\">VCO<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/6\/0rs2lxolj6lew0llx95wkfal45yy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4047 ",
+        "1": "4047 ",
+        "2": "Multivibrators ",
+        "3": "1 ",
+        "4": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/Monostable\" title=\"Monostable\">Monostable<\/a>\/<a href=\"https:\/\/en.wikipedia.org\/wiki\/Astable\" class=\"mw-redirect\" title=\"Astable\">astable<\/a> <a href=\"https:\/\/en.wikipedia.org\/wiki\/Multivibrator\" title=\"Multivibrator\">multivibrator<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/4\/084klcd50i3au7uz078a46e95gyy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4048 ",
+        "1": "4048 ",
+        "2": "Logic Gates ",
+        "3": "1 ",
+        "4": "Expandable 8-input 8-function gate with tri-state output,<br \/>choice of: NOR, OR, NAND, AND, <a href=\"https:\/\/en.wikipedia.org\/wiki\/AND-OR-Invert\" title=\"AND-OR-Invert\">AND-NOR<\/a> (AOI), AND-OR, OR-NAND (OAI), OR-AND ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/e\/0lj0i18w98zpxra1z0659l7kehky.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4049 ",
+        "1": "4049 ",
+        "2": "Buffers ",
+        "3": "6 ",
+        "4": "Hex <a href=\"https:\/\/en.wikipedia.org\/wiki\/Inverter_(logic_gate)\" title=\"Inverter (logic gate)\">inverter<\/a> gate, can drive 2 TTL\/RTL loads or 4 four 74LS loads ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/90\/109092_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4050 ",
+        "1": "4050 ",
+        "2": "Buffers ",
+        "3": "6 ",
+        "4": "Hex <a href=\"https:\/\/en.wikipedia.org\/wiki\/Digital_buffer\" title=\"Digital buffer\">buffer<\/a> gate, can drive 2 TTL\/RTL loads or 4 four 74LS loads ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/90\/109092_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4051 ",
+        "1": "4051 ",
+        "2": "Analog Switches ",
+        "3": "1 ",
+        "4": "8-channel analog multiplexer\/<a href=\"https:\/\/en.wikipedia.org\/wiki\/Demultiplexer\" class=\"mw-redirect\" title=\"Demultiplexer\">demultiplexer<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/208\/109138_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4052 ",
+        "1": "4052 ",
+        "2": "Analog Switches ",
+        "3": "2 ",
+        "4": "Dual 4-channel analog multiplexer\/demultiplexer ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/208\/109138_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4053 ",
+        "1": "4053 ",
+        "2": "Analog Switches ",
+        "3": "3 ",
+        "4": "Triple 2-channel analog multiplexer\/demultiplexer ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/208\/109138_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4054 ",
+        "1": "4054 ",
+        "2": "LCD Drivers ",
+        "3": "1 ",
+        "4": "BCD to 7-segment decoder\/<a href=\"https:\/\/en.wikipedia.org\/wiki\/Liquid_crystal_display\" class=\"mw-redirect\" title=\"Liquid crystal display\">LCD<\/a> driver ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/7\/0tfpaepj9r14how0aigyw73k71yy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4055 ",
+        "1": "4055 ",
+        "2": "LCD Drivers ",
+        "3": "1 ",
+        "4": "BCD to 7-segment decoder\/LCD driver with \"display-frequency\" output ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/7\/0tfpaepj9r14how0aigyw73k71yy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4056 ",
+        "1": "4056 ",
+        "2": "LCD Drivers ",
+        "3": "1 ",
+        "4": "BCD to 7-segment decoder\/LCD driver with strobed-latch function ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/7\/0tfpaepj9r14how0aigyw73k71yy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4059 ",
+        "1": "4059 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "Programmable divide-by-N counter ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>24 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/400\/109194_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4060 ",
+        "1": "4060 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "14-stage binary ripple counter and <a href=\"https:\/\/en.wikipedia.org\/wiki\/Oscillator\" class=\"mw-redirect\" title=\"Oscillator\">oscillator<\/a>, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Schmitt_trigger\" title=\"Schmitt trigger\">schmitt trigger<\/a> inputs ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/4\/084y37fdt83lotw0s2yph6cciryy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4062 ",
+        "1": "4062 ",
+        "2": " ",
+        "3": "? ",
+        "4": "Logic dual 3 majority gate ",
+        "5": " ",
+        "6": "? ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4063 ",
+        "1": "4063 ",
+        "2": "Comparators ",
+        "3": "1 ",
+        "4": "4-bit <a href=\"https:\/\/en.wikipedia.org\/wiki\/Digital_comparator\" title=\"Digital comparator\">digital comparator<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/b\/0fx5815ioxqyt8wiyxqh7u0soywy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4066 ",
+        "1": "4066 ",
+        "2": "Analog Switches ",
+        "3": "4 ",
+        "4": "Quad <a href=\"https:\/\/en.wikipedia.org\/wiki\/Analog_switch\" class=\"mw-redirect\" title=\"Analog switch\">analog switch<\/a> (low \"ON\" resistance) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/c\/0gpox4oc4p1qj95do2kq6qu76rcy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4067 ",
+        "1": "4067 ",
+        "2": "Analog Switches ",
+        "3": "1 ",
+        "4": "16-channel analog multiplexer\/demultiplexer (1-of-16 switch) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>24 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/4\/08at55a3urieef4i63yw83u453yy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4068 ",
+        "1": "4068 ",
+        "2": "Logic Gates ",
+        "3": "1 ",
+        "4": "8-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NAND_gate\" title=\"NAND gate\">NAND<\/a>\/<a href=\"https:\/\/en.wikipedia.org\/wiki\/AND_gate\" title=\"AND gate\">AND gate<\/a> (2 outputs) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/70\/109237_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4069 ",
+        "1": "4069 ",
+        "2": "Logic Gates ",
+        "3": "6 ",
+        "4": "Hex inverter ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/90\/206781_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4070 ",
+        "1": "4070 ",
+        "2": "Logic Gates ",
+        "3": "4 ",
+        "4": "Quad 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/XOR_gate\" title=\"XOR gate\">XOR gate<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/134\/109314_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4071 ",
+        "1": "4071 ",
+        "2": "Logic Gates ",
+        "3": "4 ",
+        "4": "Quad 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/OR_gate\" title=\"OR gate\">OR gate<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4071B.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4072 ",
+        "1": "4072 ",
+        "2": "Logic Gates ",
+        "3": "2 ",
+        "4": "Dual 4-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/OR_gate\" title=\"OR gate\">OR gate<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/120\/109273_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4073 ",
+        "1": "4073 ",
+        "2": "Logic Gates ",
+        "3": "3 ",
+        "4": "Triple 3-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/AND_gate\" title=\"AND gate\">AND gate<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/3\/07ghuh45qzr355t30hpipresu9ky.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4075 ",
+        "1": "4075 ",
+        "2": "Logic Gates ",
+        "3": "3 ",
+        "4": "Triple 3-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/OR_gate\" title=\"OR gate\">OR gate<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/120\/109273_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4076 ",
+        "1": "4076 ",
+        "2": "Registers ",
+        "3": "4 ",
+        "4": "Quad D-type register with tri-state outputs ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/intersil\/fn3325.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4077 ",
+        "1": "4077 ",
+        "2": "Logic Gates ",
+        "3": "4 ",
+        "4": "Quad 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/XNOR_gate\" title=\"XNOR gate\">XNOR gate<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/134\/109314_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4078 ",
+        "1": "4078 ",
+        "2": "Logic Gates ",
+        "3": "1 ",
+        "4": "8-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NOR_gate\" title=\"NOR gate\">NOR<\/a>\/<a href=\"https:\/\/en.wikipedia.org\/wiki\/OR_gate\" title=\"OR gate\">OR gate<\/a> (2 outputs) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/70\/109327_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4081 ",
+        "1": "4081 ",
+        "2": "Logic Gates ",
+        "3": "4 ",
+        "4": "Quad 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/AND_gate\" title=\"AND gate\">AND gate<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/185\/109330_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4082 ",
+        "1": "4082 ",
+        "2": "Logic Gates ",
+        "3": "2 ",
+        "4": "Dual 4-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/AND_gate\" title=\"AND gate\">AND gate<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/intersil\/fn3324.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4085 ",
+        "1": "4085 ",
+        "2": "Logic Gates ",
+        "3": "2 ",
+        "4": "Dual 2-wide, 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/AND-OR-Invert\" title=\"AND-OR-Invert\">AND-OR-Invert<\/a> (AOI) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/intersil\/fn3324.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4086 ",
+        "1": "4086 ",
+        "2": "Logic Gates ",
+        "3": "? ",
+        "4": "Expandable 4-wide, 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/AND-OR-Invert\" title=\"AND-OR-Invert\">AND-OR-Invert<\/a> (AOI) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/Dual_in-line_package\" title=\"Dual in-line package\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/270\/82688_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4089 ",
+        "1": "4089 ",
+        "2": "Rate Multipliers ",
+        "3": "1 ",
+        "4": "Binary rate multiplier ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/105\/109353_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4093 ",
+        "1": "4093 ",
+        "2": "Logic Gates ",
+        "3": "4 ",
+        "4": "Quad 2-input NAND gate, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Schmitt_trigger\" title=\"Schmitt trigger\">schmitt trigger<\/a> inputs ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/90\/109357_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4094 ",
+        "1": "4094 ",
+        "2": "Shift Registers ",
+        "3": "1 ",
+        "4": "8-stage shift-and-store bus ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/e\/0zfy3x112ch42r82d060wl0jtocy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4095 ",
+        "1": "4095 ",
+        "2": "Flip-Flops ",
+        "3": "1 ",
+        "4": "Gated J-K flip-flop (non-inverting) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Plastic_leaded_chip_carrier\" class=\"mw-redirect\" title=\"Plastic leaded chip carrier\">PLCC<\/a>20 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/105\/109379_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4096 ",
+        "1": "4096 ",
+        "2": "Flip-Flops ",
+        "3": "1 ",
+        "4": "Gated J-K flip-flop (inverting and non-inverting) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Plastic_leaded_chip_carrier\" class=\"mw-redirect\" title=\"Plastic leaded chip carrier\">PLCC<\/a>20 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/105\/109379_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4097 ",
+        "1": "4097 ",
+        "2": "Analog Switches ",
+        "3": "1 ",
+        "4": "Differential 8-channel analog multiplexer\/demultiplexer ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>24 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/4\/08at55a3urieef4i63yw83u453yy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4098 ",
+        "1": "4098 ",
+        "2": "Multivibrators ",
+        "3": "2 ",
+        "4": "Dual one-shot <a href=\"https:\/\/en.wikipedia.org\/wiki\/Monostable\" title=\"Monostable\">monostable<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/120\/109384_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4099 ",
+        "1": "4099 ",
+        "2": "Latches ",
+        "3": "1 ",
+        "4": "8-bit addressable latch ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/c\/0ho1jgpu09kii6i650li4579diky.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4104 ",
+        "1": "4104 ",
+        "2": "Translators ",
+        "3": "4 ",
+        "4": "Quad low-to-high voltage translator with tri-state outputs ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4104BN.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4106 ",
+        "1": "4106 ",
+        "2": "Logic Gates ",
+        "3": "6 ",
+        "4": "Hex <a href=\"https:\/\/en.wikipedia.org\/wiki\/Inverter_(logic_gate)\" title=\"Inverter (logic gate)\">inverter<\/a> gate, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Schmitt_trigger\" title=\"Schmitt trigger\">schmitt trigger<\/a> inputs ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>14, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>14 ",
+        "6": "http:\/\/pdf.datasheetcatalog.com\/datasheet2\/d\/0j07yw86kkl7j6929ue9u4d7063y.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4160 ",
+        "1": "4160 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "Decade counter with asynchronous clear ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4161 ",
+        "1": "4161 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "4-bit binary counter with asynchronous clear ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4162 ",
+        "1": "4162 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "Decade counter with synchronous clear ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4163 ",
+        "1": "4163 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "4-bit binary counter with synchronous clear ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4174 ",
+        "1": "4174 ",
+        "2": "Flip-Flops ",
+        "3": "6 ",
+        "4": "Hex D-type <a href=\"https:\/\/en.wikipedia.org\/wiki\/Flip-flop_(electronics)\" title=\"Flip-flop (electronics)\">Flip-Flop<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16 ",
+        "6": "http:\/\/pdf.datasheetcatalog.com\/datasheet2\/0\/01zt41xyz1tjfo4792lq00thx7py.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4175 ",
+        "1": "4175 ",
+        "2": "Flip-Flops ",
+        "3": "4 ",
+        "4": "Quad D-type flip-flop ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16 ",
+        "6": "http:\/\/pdf.datasheetcatalog.com\/datasheet2\/e\/0zofxho0wazf2i2ylyqi8txxj5fy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4192 ",
+        "1": "4192 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "Presettable up-down counter ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4490 ",
+        "1": "4490 ",
+        "2": " ",
+        "3": "6 ",
+        "4": "Hex contact bounce eliminator ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16 ",
+        "6": "http:\/\/pdf.datasheetcatalog.com\/datasheet2\/2\/05c5rh4ztecl2wfod3lt4fcgptwy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4500 ",
+        "1": "4500 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "Industrial control unit ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4502 ",
+        "1": "4502 ",
+        "2": " ",
+        "3": "6 ",
+        "4": "Hex inverting <a href=\"https:\/\/en.wikipedia.org\/wiki\/Buffer_amplifier\" title=\"Buffer amplifier\">buffer<\/a> (tri-state) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/d\/0jgqkg8g06iu33wlaz5ap7uzwo3y.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4503 ",
+        "1": "4503 ",
+        "2": " ",
+        "3": "6 ",
+        "4": "Hex non-inverting <a href=\"https:\/\/en.wikipedia.org\/wiki\/Buffer_amplifier\" title=\"Buffer amplifier\">buffer<\/a> with tri-state outputs ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/134\/109496_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4504 ",
+        "1": "4504 ",
+        "2": "Translators ",
+        "3": "6 ",
+        "4": "Hex voltage level shifter for TTL-to-CMOS or CMOS-to-CMOS operation ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/37\/109510_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4505 ",
+        "1": "4505 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "64-bit, 1-bit per word random access memory (RAM) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>14 ",
+        "6": "http:\/\/pdf.datasheetcatalog.com\/datasheet\/philips\/HEF4505BD.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4508 ",
+        "1": "4508 ",
+        "2": "Latches ",
+        "3": "2 ",
+        "4": "Dual 4-bit latch with tri-state outputs ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>24 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/0\/01owlws9adq8o9xrqsjtd7x19xyy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4510 ",
+        "1": "4510 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "Presettable 4-bit BCD up\/down counter ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/74HC4510.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4511 ",
+        "1": "4511 ",
+        "2": "7-Segment Decoders ",
+        "3": "1 ",
+        "4": "BCD to 7-segment latch\/decoder\/driver ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/150\/109579_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4512 ",
+        "1": "4512 ",
+        "2": "Multiplexers ",
+        "3": "1 ",
+        "4": "8-input multiplexer (data selector) with tri-state output ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "https:\/\/web.archive.org\/web\/20120307032607\/http:\/\/www.datasheetcatalog.org\/datasheet\/nationalsemiconductor\/DS005993.PDF",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4513 ",
+        "1": "4513 ",
+        "2": "7-Segment Decoders ",
+        "3": "1 ",
+        "4": "BCD to 7-segment latch\/decoder\/driver (4511 plus ripple blanking) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>18 ",
+        "6": "http:\/\/pdf.datasheetcatalog.com\/datasheet2\/6\/0e9ilputc7k58dst6qquf7pi6yyy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4514 ",
+        "1": "4514 ",
+        "2": "Multiplexers ",
+        "3": "1 ",
+        "4": "1-of-16 decoder\/demultiplexer active HIGH output ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>24 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/90\/109549_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4515 ",
+        "1": "4515 ",
+        "2": "Multiplexers ",
+        "3": "1 ",
+        "4": "1-of-16 decoder\/demultiplexer active LOW output ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>24, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>24 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/90\/109549_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4516 ",
+        "1": "4516 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "Presettable 4-bit binary up\/down counter ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/pdf.datasheetcatalog.com\/datasheet2\/d\/0jszj0cfac1x7istx80lq2qd4wky.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4517 ",
+        "1": "4517 ",
+        "2": "Shift Registers ",
+        "3": "2 ",
+        "4": "Dual 64-stage shift register ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16 ",
+        "6": "http:\/\/pdf.datasheetcatalog.com\/datasheets\/120\/109582_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4518 ",
+        "1": "4518 ",
+        "2": "Counters ",
+        "3": "2 ",
+        "4": "Dual BCD up counter ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/120\/109587_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4519 ",
+        "1": "4519 ",
+        "2": " ",
+        "3": "4 ",
+        "4": "Quad 2-input multiplexer (data selector) ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/208\/82779_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4520 ",
+        "1": "4520 ",
+        "2": "Counters ",
+        "3": "2 ",
+        "4": "Dual 4-bit binary up counter ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.alldatasheet.com\/datasheet-pdf\/pdf\/26909\/TI\/CD4520.html",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4521 ",
+        "1": "4521 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "24-stage frequency divider ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4522 ",
+        "1": "4522 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "Programmable BCD divide-by-N counter ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4526 ",
+        "1": "4526 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "Programmable 4-bit binary down counter ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4527 ",
+        "1": "4527 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "BCD rate multiplier ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/270\/109596_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4528 ",
+        "1": "4528 ",
+        "2": " ",
+        "3": "2 ",
+        "4": "Dual <a href=\"https:\/\/en.wikipedia.org\/wiki\/Retriggerable_monostable\" class=\"mw-redirect\" title=\"Retriggerable monostable\">retriggerable monostable<\/a> multivibrator with reset ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4528BF.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4529 ",
+        "1": "4529 ",
+        "2": "Analog ",
+        "3": "2 ",
+        "4": "Dual 4-channel analog data selector\/multiplexer ",
+        "5": " ",
+        "6": "https:\/\/web.archive.org\/web\/20141024025628\/http:\/\/www.abra-electronics.com\/products\/4529-IC-CMOS-Dual-4-Channel-Analog-Data-Selector%7B47%7DMultiplexer.html",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4530 ",
+        "1": "4530 ",
+        "2": " ",
+        "3": "2 ",
+        "4": "Dual 5-input majority logical gate ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4531 ",
+        "1": "4531 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "12-bit parity tree ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4532 ",
+        "1": "4532 ",
+        "2": "Multiplexers ",
+        "3": "1 ",
+        "4": "8-bit <a href=\"https:\/\/en.wikipedia.org\/wiki\/Priority_encoder\" title=\"Priority encoder\">priority encoder<\/a> ",
+        "5": " ",
+        "6": "http:\/\/focus.ti.com\/lit\/ds\/symlink\/cd4532b.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4536 ",
+        "1": "4536 ",
+        "2": "Timers ",
+        "3": "1 ",
+        "4": "Programmable timer ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/400\/82805_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4538 ",
+        "1": "4538 ",
+        "2": " ",
+        "3": "2 ",
+        "4": "Dual retriggerable precision monostable multivibrator ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/6\/0exa9lpxw3ik4p5pdpigp5rf62ky.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4539 ",
+        "1": "4539 ",
+        "2": " ",
+        "3": "2 ",
+        "4": "Dual 4-input multiplexer ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4539BF.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4541 ",
+        "1": "4541 ",
+        "2": "Timers ",
+        "3": "1 ",
+        "4": "Programmable timer ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4541B.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4543 ",
+        "1": "4543 ",
+        "2": "7-Segment Decoders ",
+        "3": "1 ",
+        "4": "BCD to 7-segment latch\/decoder\/driver with phase input ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4543BF.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4549 ",
+        "1": "4549 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "Successive approximation registers ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4551 ",
+        "1": "4551 ",
+        "2": "Analog Switches ",
+        "3": "4 ",
+        "4": "Quad 2-channel analog multiplexer\/demultiplexer ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4553 ",
+        "1": "4553 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "3-digit BCD counter ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/105\/501162_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4555 ",
+        "1": "4555 ",
+        "2": "Multiplexers ",
+        "3": "2 ",
+        "4": "Dual 1-of-4 decoder\/demultiplexer active HIGH output ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4555BP.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4556 ",
+        "1": "4556 ",
+        "2": "Multiplexers ",
+        "3": "2 ",
+        "4": "Dual 1-of-4 decoder\/demultiplexer active LOW output ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4556BF.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4557 ",
+        "1": "4557 ",
+        "2": "Shift Registers ",
+        "3": "1 ",
+        "4": "1-to-64 stage variable length <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shift_register\" title=\"Shift register\">shift register<\/a> ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4557BF.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4558 ",
+        "1": "4558 ",
+        "2": "7-Segment Decoders ",
+        "3": "1 ",
+        "4": "BCD to 7-segment decoder (enable, RBI and provides active\u2013high output) ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4559 ",
+        "1": "4559 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "Successive approximation registers ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4560 ",
+        "1": "4560 ",
+        "2": "Adders ",
+        "3": "1 ",
+        "4": "<a href=\"\/w\/index.php?title=NBCD_adder&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"NBCD adder (page does not exist)\">NBCD adder<\/a> ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/208\/82835_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4561 ",
+        "1": "4561 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/Method_of_complements\" title=\"Method of complements\">9's complementer<\/a> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16 ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4562 ",
+        "1": "4562 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "128\u2013bit static shift register ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4566 ",
+        "1": "4566 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "Industrial <a href=\"\/w\/index.php?title=Time-base_generator&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Time-base generator (page does not exist)\">time-base generator<\/a> ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/HitachiSemiconductor\/mXtyrxx.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4569 ",
+        "1": "4569 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "Programmable divide-By-N, dual 4-Bit binary\/BCD down counter ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4572 ",
+        "1": "4572 ",
+        "2": "Logic Gates ",
+        "3": "6 ",
+        "4": "Hex gate: quad <a href=\"https:\/\/en.wikipedia.org\/wiki\/NOT_gate\" class=\"mw-redirect\" title=\"NOT gate\">inverter<\/a> gate, single 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NAND_gate\" title=\"NAND gate\">NAND<\/a> gate, single 2-input <a href=\"https:\/\/en.wikipedia.org\/wiki\/NOR_gate\" title=\"NOR gate\">NOR<\/a> gate ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/SGSThomsonMicroelectronics\/mXursxu.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4583 ",
+        "1": "4583 ",
+        "2": " ",
+        "3": "2 ",
+        "4": "Dual adjustable <a href=\"https:\/\/en.wikipedia.org\/wiki\/Schmitt_trigger\" title=\"Schmitt trigger\">schmitt trigger<\/a> inputs, each with buffer and inverter outputs, and XOR output ",
+        "5": " ",
+        "6": "http:\/\/www.nteinc.com\/specs\/4500to4599\/pdf\/nte4583B.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4584 ",
+        "1": "4584 ",
+        "2": "Logic Gates ",
+        "3": "6 ",
+        "4": "Hex <a href=\"https:\/\/en.wikipedia.org\/wiki\/Inverter_(logic_gate)\" title=\"Inverter (logic gate)\">inverter<\/a> gate, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Schmitt_trigger\" title=\"Schmitt trigger\">schmitt trigger<\/a> inputs ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/HitachiSemiconductor\/mXurtwx.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4585 ",
+        "1": "4585 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "4-bit <a href=\"https:\/\/en.wikipedia.org\/wiki\/Digital_comparator\" title=\"Digital comparator\">digital comparator<\/a> ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/6\/0egseq3e7syw8dki90dsphwazxcy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4724 ",
+        "1": "4724 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "8-bit addressable latch ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4750 ",
+        "1": "4750 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/Frequency_synthesizer\" title=\"Frequency synthesizer\">Frequency synthesizer<\/a> ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF4750VF.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4751 ",
+        "1": "4751 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "Universal divider ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4794 ",
+        "1": "4794 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "8-stage shift-and-store register <a href=\"https:\/\/en.wikipedia.org\/wiki\/LED\" class=\"mw-redirect\" title=\"LED\">LED<\/a> driver ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4894 ",
+        "1": "4894 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "12-stage shift-and-store register LED driver ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4938 ",
+        "1": "4938 ",
+        "2": " ",
+        "3": "2 ",
+        "4": "Dual retriggerable precision <a href=\"\/w\/index.php?title=Monostable_multivibrator&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Monostable multivibrator (page does not exist)\">monostable multivibrator<\/a> with reset ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "4952 ",
+        "1": "4952 ",
+        "2": "Analog ",
+        "3": "1 ",
+        "4": "8-channel analog multiplexer\/demultiplexer ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40098 ",
+        "1": "40098 ",
+        "2": " ",
+        "3": "6 ",
+        "4": "Hex 3-state inverting buffer ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40100 ",
+        "1": "40100 ",
+        "2": "Shift Registers ",
+        "3": "1 ",
+        "4": "32-stage left\/right <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shift_register\" title=\"Shift register\">shift register<\/a> ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/70\/108585_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40101 ",
+        "1": "40101 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "9-bit parity generator\/checker ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40102 ",
+        "1": "40102 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "Presettable 2-decade BCD down counter ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40103 ",
+        "1": "40103 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "Presettable 8-bit binary down counter ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40104 ",
+        "1": "40104 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "4-bit bidirectional parallel-in\/parallel-out shift register (tri-state) ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40105 ",
+        "1": "40105 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "4-bit x 16 word <a href=\"https:\/\/en.wikipedia.org\/wiki\/FIFO_(computing_and_electronics)\" title=\"FIFO (computing and electronics)\">FIFO<\/a> register ",
+        "5": " ",
+        "6": "http:\/\/www.ti.com\/lit\/ds\/symlink\/cd74hc40105.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40106 ",
+        "1": "40106 ",
+        "2": "Logic Gates ",
+        "3": "6 ",
+        "4": "Hex <a href=\"https:\/\/en.wikipedia.org\/wiki\/Inverter_(logic_gate)\" title=\"Inverter (logic gate)\">inverter<\/a> gate, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Schmitt_trigger\" title=\"Schmitt trigger\">schmitt trigger<\/a> inputs ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/fairchild\/CD40106BC.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40107 ",
+        "1": "40107 ",
+        "2": " ",
+        "3": "2 ",
+        "4": "Dual 2-input NAND gate with 136 mA <a href=\"https:\/\/en.wikipedia.org\/wiki\/Open_collector#MOSFET\" title=\"Open collector\">open-drain<\/a> driver (32 times standard \"B\" sink) ",
+        "5": "DIP8 ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40108 ",
+        "1": "40108 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "4x4-bit (tri-state) synchronous triple-port register file ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40109 ",
+        "1": "40109 ",
+        "2": "Translators ",
+        "3": "4 ",
+        "4": "Quad level shifter ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/SGSThomsonMicroelectronics\/mXwwwy.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40110 ",
+        "1": "40110 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "Up\/down decade counter, latch, 7-segment decoder, LED driver ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40116 ",
+        "1": "40116 ",
+        "2": "Translators ",
+        "3": "1 ",
+        "4": "8-bit bidirectional CMOS-to-<a href=\"https:\/\/en.wikipedia.org\/wiki\/Transistor%E2%80%93transistor_logic\" title=\"Transistor\u2013transistor logic\">TTL<\/a> level converter ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40117 ",
+        "1": "40117 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "Programmable dual 4-bit terminator ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40147 ",
+        "1": "40147 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "10-line to 4-line (BCD) priority encoder ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/90\/108684_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40160 ",
+        "1": "40160 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "Decade counter\/asynchronous clear ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40161 ",
+        "1": "40161 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "Binary counter\/asynchronous clear ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40162 ",
+        "1": "40162 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "4-bit <a href=\"https:\/\/en.wikipedia.org\/wiki\/Synchronization_(computer_science)\" title=\"Synchronization (computer science)\">synchronous<\/a> decade counter with load, reset, and <a href=\"\/w\/index.php?title=Ripple_carry&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ripple carry (page does not exist)\">ripple carry<\/a> output ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40163 ",
+        "1": "40163 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "4-bit synchronous binary counter with load, reset, and ripple carry output ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40174 ",
+        "1": "40174 ",
+        "2": "Flip-Flops ",
+        "3": "6 ",
+        "4": "Hex D-type <a href=\"https:\/\/en.wikipedia.org\/wiki\/Flip-flop_(electronics)\" title=\"Flip-flop (electronics)\">flip-flop<\/a> ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40175 ",
+        "1": "40175 ",
+        "2": "Flip-Flops ",
+        "3": "4 ",
+        "4": "Quad D-type <a href=\"https:\/\/en.wikipedia.org\/wiki\/Flip-flop_(electronics)\" title=\"Flip-flop (electronics)\">flip-flop<\/a> ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40181 ",
+        "1": "40181 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "4-bit 16-function <a href=\"https:\/\/en.wikipedia.org\/wiki\/Arithmetic_logic_unit\" title=\"Arithmetic logic unit\">arithmetic logic unit<\/a> ",
+        "5": " ",
+        "6": "https:\/\/www.alldatasheet.com\/datasheet-pdf\/pdf\/66414\/INTERSIL\/CD40181.html",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40192 ",
+        "1": "40192 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "Presettable 4-bit up\/down BCD counter ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/150\/108806_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40193 ",
+        "1": "40193 ",
+        "2": "Counters ",
+        "3": "1 ",
+        "4": "Presettable 4-bit up\/down binary counter ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Small_Outline_Integrated_Circuit\" class=\"mw-redirect\" title=\"Small Outline Integrated Circuit\">SO<\/a>16, <a href=\"https:\/\/en.wikipedia.org\/wiki\/TSSOP\" class=\"mw-redirect\" title=\"TSSOP\">TSSOP<\/a>16 ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheets\/150\/108806_DS.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40194 ",
+        "1": "40194 ",
+        "2": "Shift Registers ",
+        "3": "1 ",
+        "4": "4-bit bidirectional universal <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shift_register\" title=\"Shift register\">shift register<\/a> ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet2\/3\/0755oj0uciyc8hu2idsj1jgce1ky.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40195 ",
+        "1": "40195 ",
+        "2": "Shift Registers ",
+        "3": "1 ",
+        "4": "4-bit universal <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shift_register\" title=\"Shift register\">shift register<\/a> ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40208 ",
+        "1": "40208 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "4 x 4-bit (tri-state) synchronous triple-port <a href=\"https:\/\/en.wikipedia.org\/wiki\/Register_file\" title=\"Register file\">register file<\/a> ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40240 ",
+        "1": "40240 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "Buffer\/<a href=\"https:\/\/en.wikipedia.org\/wiki\/Line-level\" class=\"mw-redirect\" title=\"Line-level\">Line driver<\/a>; inverting (tri-state) ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40244 ",
+        "1": "40244 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "Buffer\/line driver; non-inverting (tri-state) ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40245 ",
+        "1": "40245 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "Octal <a href=\"\/w\/index.php?title=Bus_transceiver&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Bus transceiver (page does not exist)\">bus transceiver<\/a>; (tri-state) outputs ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40257 ",
+        "1": "40257 ",
+        "2": " ",
+        "3": "4 ",
+        "4": "Quad 2-line to 1-line data selector\/multiplexer (tri-state) ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40373 ",
+        "1": "40373 ",
+        "2": "Latches ",
+        "3": "1 ",
+        "4": "Octal D-type <a href=\"https:\/\/en.wikipedia.org\/wiki\/Transparent_latch\" class=\"mw-redirect\" title=\"Transparent latch\">transparent latch<\/a> (tri-state) ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF40373BF.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40374 ",
+        "1": "40374 ",
+        "2": "Flip-Flops ",
+        "3": "1 ",
+        "4": "Octal D-type <a href=\"https:\/\/en.wikipedia.org\/wiki\/Flip-flop_(electronics)\" title=\"Flip-flop (electronics)\">flip-flop<\/a>; positive-edge trigger (tri-state) ",
+        "5": " ",
+        "6": "http:\/\/www.datasheetcatalog.org\/datasheet\/philips\/HEF40374BN.pdf",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40501 ",
+        "1": "40501 ",
+        "2": "Buffers ",
+        "3": "6 ",
+        "4": "Hex <a href=\"https:\/\/en.wikipedia.org\/wiki\/Buffer_amplifier\" title=\"Buffer amplifier\">buffer<\/a>\/converter (non-inverting) (pinout variant of 4050)<sup id=\"cite_ref-Schlenzig_1987_Kleincomputer_8-1\" class=\"reference\"><a href=\"https:\/\/en.wikipedia.org\/wiki\/List_of_4000-series_integrated_circuits#cite_note-Schlenzig_1987_Kleincomputer-8\"><\/a><\/sup> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16 ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "40511 ",
+        "1": "40511 ",
+        "2": "7-Segment Decoders ",
+        "3": "1 ",
+        "4": "BCD 7-segment decoder, hexadecimal, active high<sup id=\"cite_ref-Schlenzig_1987_Kleincomputer_8-2\" class=\"reference\"><a href=\"https:\/\/en.wikipedia.org\/wiki\/List_of_4000-series_integrated_circuits#cite_note-Schlenzig_1987_Kleincomputer-8\"><\/a><\/sup> ",
+        "5": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/PDIP\" class=\"mw-redirect\" title=\"PDIP\">DIP<\/a>16 ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    },
+    {
+        "0": "45106 ",
+        "1": "45106 ",
+        "2": " ",
+        "3": "1 ",
+        "4": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/Frequency_synthesizer\" title=\"Frequency synthesizer\">frequency synthesizer<\/a> ",
+        "5": " ",
+        "6": " ",
+        "99": "4000_CMOS_Series"
+    }
+]

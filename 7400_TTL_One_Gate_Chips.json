@@ -1,1 +1,616 @@
-[{"0":"741G00","1":"74x1G00 ","2":{"title":"single 2-input NAND gate ","url":"https:\/\/en.wikipedia.org\/wiki\/NAND_gate"},"3":" ","4":" ","5":"5 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G00.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G02","1":"74x1G02 ","2":{"title":"single 2-input NOR gate ","url":"https:\/\/en.wikipedia.org\/wiki\/NOR_gate"},"3":" ","4":" ","5":"5 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G02.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G04","1":"74x1G04 ","2":{"title":"single inverter gate ","url":"https:\/\/en.wikipedia.org\/wiki\/Inverter_gate"},"3":" ","4":" ","5":"5 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G04.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G06","1":"74x1G06 ","2":"single inverter gate ","3":{"title":"schmitt trigger ","url":"https:\/\/en.wikipedia.org\/wiki\/Schmitt_trigger"},"4":{"title":"open-drain ","url":"https:\/\/en.wikipedia.org\/wiki\/Open_drain"},"5":"5 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G06.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G07","1":"74x1G07 ","2":{"title":"single buffer gate ","url":"https:\/\/en.wikipedia.org\/wiki\/Buffer_gate"},"3":"schmitt trigger ","4":"open-drain ","5":"5 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G07.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G08","1":"74x1G08 ","2":{"title":"single 2-input AND gate ","url":"https:\/\/en.wikipedia.org\/wiki\/AND_gate"},"3":" ","4":" ","5":"5 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G08.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G09","1":"74x1G09 ","2":"single 2-input AND gate ","3":" ","4":"open-drain ","5":"5 ","6":{"title":"AUP ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74AUP1G09.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G10","1":"74x1G10 ","2":"single 3-input NAND gate ","3":" ","4":" ","5":"6 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G10.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G11","1":"74x1G11 ","2":"single 3-input AND gate ","3":" ","4":" ","5":"6 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G11.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G14","1":"74x1G14 ","2":"single inverter gate ","3":"schmitt trigger ","4":" ","5":"5 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G14.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G17","1":"74x1G17 ","2":"single buffer gate ","3":"schmitt trigger ","4":" ","5":"5 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G17.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G18","1":"74x1G18 ","2":{"title":"single 1-of-2 non-inverting multiplexer, deselected output is 3-state ","url":"https:\/\/en.wikipedia.org\/wiki\/Multiplexer"},"3":" ","4":{"title":"three-state ","url":"https:\/\/en.wikipedia.org\/wiki\/Three-state_logic"},"5":"6 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G18.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G19","1":"74x1G19 ","2":{"title":"single 1-to-2 line decoder, active low outputs ","url":"https:\/\/en.wikipedia.org\/wiki\/Line_decoder"},"3":" ","4":" ","5":"6 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G19.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G27","1":"74x1G27 ","2":"single 3-input NOR gate ","3":" ","4":" ","5":"6 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G27.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G29","1":"74x1G29 ","2":"single 2-to-3 line decoder, active low outputs ","3":" ","4":" ","5":"8 ","6":{"title":"LVC ","url":"http:\/\/www.ti.com\/lit\/gpn\/sn74lvc1g29"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G32","1":"74x1G32 ","2":{"title":"single 2-input OR gate ","url":"https:\/\/en.wikipedia.org\/wiki\/OR_gate"},"3":" ","4":" ","5":"5 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G32.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G34","1":"74x1G34 ","2":"single buffer gate ","3":" ","4":" ","5":"5 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G34.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G38","1":"74x1G38 ","2":"single 2-input NAND gate ","3":" ","4":"open-drain ","5":"5 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74AUP1G38.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G57","1":"74x1G57 ","2":"single configurable 7-function gate ","3":"schmitt trigger ","4":" ","5":"6 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G57.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G58","1":"74x1G58 ","2":"single configurable 7-function gate ","3":"schmitt trigger ","4":" ","5":"6 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G58.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G66","1":"74x1G66 ","2":"single SPST analog switch ","3":"analog ","4":"analog ","5":"5 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G66.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G74","1":"74x1G74 ","2":{"title":"single D-type flip-flop, positive-edge trigger, Q &amp; Q outputs, asynchronous preset and clear ","url":"https:\/\/en.wikipedia.org\/wiki\/Flip-flop_(electronics)"},"3":" ","4":" ","5":"8 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G74.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G79","1":"74x1G79 ","2":"single D-type flip-flop, positive-edge trigger, Q output ","3":" ","4":" ","5":"5 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G79.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G80","1":"74x1G80 ","2":"single D-type flip-flop, positive-edge trigger, <span style=\"text-decoration:overline;\">Q<\/span> output ","3":" ","4":" ","5":"5 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G80.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G86","1":"74x1G86 ","2":{"title":"single 2-input XOR gate (a.k.a. 2-bit even-parity generator) ","url":"https:\/\/en.wikipedia.org\/wiki\/Parity_(mathematics)"},"3":" ","4":" ","5":"5 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G86.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G97","1":"74x1G97 ","2":"single configurable 7-function gate ","3":"schmitt trigger ","4":" ","5":"6 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G97.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G98","1":"74x1G98 ","2":"single configurable 7-function gate ","3":"schmitt trigger ","4":" ","5":"6 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G98.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G99","1":"74x1G99 ","2":"single configurable 15-function gate, active-low enable ","3":"schmitt trigger ","4":"three-state ","5":"8 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G99.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G123","1":"74x1G123 ","2":{"title":"single retriggerable monostable multivibrator, active-low clear ","url":"https:\/\/en.wikipedia.org\/wiki\/Monostable"},"3":" ","4":" ","5":"8 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G123.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G125","1":"74x1G125 ","2":"single buffer gate, active-low enable ","3":" ","4":"three-state ","5":"5 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G125.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G126","1":"74x1G126 ","2":"single buffer gate, active-high enable ","3":" ","4":"three-state ","5":"5 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G126.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G132","1":"74x1G132 ","2":"single 2-input NAND gate ","3":"schmitt trigger ","4":" ","5":"5 ","6":{"title":"LVC ","url":"http:\/\/www.ti.com\/lit\/gpn\/sn74lvc1g132"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G139","1":"74x1G139 ","2":"single 2-to-4 line decoder, active low outputs ","3":" ","4":" ","5":"8 ","6":{"title":"LVC ","url":"http:\/\/www.ti.com\/lit\/gpn\/sn74lvc1g139"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G157","1":"74x1G157 ","2":"single 2-input multiplexer ","3":"schmitt trigger ","4":" ","5":"6 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G157.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G158","1":"74x1G158 ","2":"single 2-input multiplexer, inverted output ","3":"schmitt trigger ","4":" ","5":"6 ","6":{"title":"AUP ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74AUP1G158.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G175","1":"74x1G175 ","2":"single D-type flip-flop, positive-edge trigger, Q output, asynchronous clear ","3":" ","4":" ","5":"6 ","6":{"title":"LVC ","url":"http:\/\/www.ti.com\/lit\/ds\/symlink\/sn74lvc1g175.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G240","1":"74x1G240 ","2":"single inverter gate, active-low enable ","3":" ","4":"three-state ","5":"5 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G240.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G332","1":"74x1G332 ","2":"single 3-input OR gate ","3":" ","4":" ","5":"6 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G332.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G373","1":"74x1G373 ","2":"single D-type transparent latch, negative-edge latching, Q output, active-low enable ","3":" ","4":"three-state ","5":"6 ","6":{"title":"LVC ","url":"http:\/\/www.ti.com\/lit\/gpn\/sn74lvc1g373"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G374","1":"74x1G374 ","2":"single D-type flip-flop, positive-edge trigger, Q output, active-low enable ","3":" ","4":"three-state ","5":"6 ","6":{"title":"LVC ","url":"http:\/\/www.ti.com\/lit\/gpn\/sn74lvc1g374"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G386","1":"74x1G386 ","2":"single 3-input XOR Gate (a.k.a. 3-bit even-parity generator) ","3":" ","4":" ","5":"6 ","6":{"title":"LVC ","url":"https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G386.pdf"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G0832","1":"74x1G0832 ","2":"single 3-input AND-OR combo gate (2-input AND into 2-input OR) ","3":"schmitt trigger ","4":" ","5":"6 ","6":{"title":"LVC ","url":"http:\/\/www.ti.com\/lit\/gpn\/sn74lvc1g0832"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G3157","1":"74x1G3157 ","2":"single SPDT analog switch ","3":"analog ","4":"analog ","5":"6 ","6":{"title":"LVC ","url":"http:\/\/www.ti.com\/lit\/gpn\/sn74lvc1g3157"},"99":"7400_TTL_One_Gate_Chips"},{"0":"741G3208","1":"74x1G3208 ","2":"single 3-input OR-AND combo gate (2-input OR into 2-input AND) ","3":"schmitt trigger ","4":" ","5":"6 ","6":{"title":"LVC ","url":"http:\/\/www.ti.com\/lit\/gpn\/sn74lvc1g3208"},"99":"7400_TTL_One_Gate_Chips"}]
+[
+    {
+        "0": "741G00",
+        "1": "74x1G00 ",
+        "2": {
+            "title": "single 2-input NAND gate ",
+            "url": "https:\/\/en.wikipedia.org\/wiki\/NAND_gate"
+        },
+        "3": " ",
+        "4": " ",
+        "5": "5 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G00.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G02",
+        "1": "74x1G02 ",
+        "2": {
+            "title": "single 2-input NOR gate ",
+            "url": "https:\/\/en.wikipedia.org\/wiki\/NOR_gate"
+        },
+        "3": " ",
+        "4": " ",
+        "5": "5 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G02.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G04",
+        "1": "74x1G04 ",
+        "2": {
+            "title": "single inverter gate ",
+            "url": "https:\/\/en.wikipedia.org\/wiki\/Inverter_gate"
+        },
+        "3": " ",
+        "4": " ",
+        "5": "5 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G04.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G06",
+        "1": "74x1G06 ",
+        "2": "single inverter gate ",
+        "3": {
+            "title": "schmitt trigger ",
+            "url": "https:\/\/en.wikipedia.org\/wiki\/Schmitt_trigger"
+        },
+        "4": {
+            "title": "open-drain ",
+            "url": "https:\/\/en.wikipedia.org\/wiki\/Open_drain"
+        },
+        "5": "5 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G06.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G07",
+        "1": "74x1G07 ",
+        "2": {
+            "title": "single buffer gate ",
+            "url": "https:\/\/en.wikipedia.org\/wiki\/Buffer_gate"
+        },
+        "3": "schmitt trigger ",
+        "4": "open-drain ",
+        "5": "5 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G07.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G08",
+        "1": "74x1G08 ",
+        "2": {
+            "title": "single 2-input AND gate ",
+            "url": "https:\/\/en.wikipedia.org\/wiki\/AND_gate"
+        },
+        "3": " ",
+        "4": " ",
+        "5": "5 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G08.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G09",
+        "1": "74x1G09 ",
+        "2": "single 2-input AND gate ",
+        "3": " ",
+        "4": "open-drain ",
+        "5": "5 ",
+        "6": {
+            "title": "AUP ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74AUP1G09.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G10",
+        "1": "74x1G10 ",
+        "2": "single 3-input NAND gate ",
+        "3": " ",
+        "4": " ",
+        "5": "6 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G10.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G11",
+        "1": "74x1G11 ",
+        "2": "single 3-input AND gate ",
+        "3": " ",
+        "4": " ",
+        "5": "6 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G11.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G14",
+        "1": "74x1G14 ",
+        "2": "single inverter gate ",
+        "3": "schmitt trigger ",
+        "4": " ",
+        "5": "5 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G14.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G17",
+        "1": "74x1G17 ",
+        "2": "single buffer gate ",
+        "3": "schmitt trigger ",
+        "4": " ",
+        "5": "5 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G17.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G18",
+        "1": "74x1G18 ",
+        "2": {
+            "title": "single 1-of-2 non-inverting multiplexer, deselected output is 3-state ",
+            "url": "https:\/\/en.wikipedia.org\/wiki\/Multiplexer"
+        },
+        "3": " ",
+        "4": {
+            "title": "three-state ",
+            "url": "https:\/\/en.wikipedia.org\/wiki\/Three-state_logic"
+        },
+        "5": "6 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G18.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G19",
+        "1": "74x1G19 ",
+        "2": {
+            "title": "single 1-to-2 line decoder, active low outputs ",
+            "url": "https:\/\/en.wikipedia.org\/wiki\/Line_decoder"
+        },
+        "3": " ",
+        "4": " ",
+        "5": "6 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G19.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G27",
+        "1": "74x1G27 ",
+        "2": "single 3-input NOR gate ",
+        "3": " ",
+        "4": " ",
+        "5": "6 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G27.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G29",
+        "1": "74x1G29 ",
+        "2": "single 2-to-3 line decoder, active low outputs ",
+        "3": " ",
+        "4": " ",
+        "5": "8 ",
+        "6": {
+            "title": "LVC ",
+            "url": "http:\/\/www.ti.com\/lit\/gpn\/sn74lvc1g29"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G32",
+        "1": "74x1G32 ",
+        "2": {
+            "title": "single 2-input OR gate ",
+            "url": "https:\/\/en.wikipedia.org\/wiki\/OR_gate"
+        },
+        "3": " ",
+        "4": " ",
+        "5": "5 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G32.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G34",
+        "1": "74x1G34 ",
+        "2": "single buffer gate ",
+        "3": " ",
+        "4": " ",
+        "5": "5 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G34.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G38",
+        "1": "74x1G38 ",
+        "2": "single 2-input NAND gate ",
+        "3": " ",
+        "4": "open-drain ",
+        "5": "5 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74AUP1G38.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G57",
+        "1": "74x1G57 ",
+        "2": "single configurable 7-function gate ",
+        "3": "schmitt trigger ",
+        "4": " ",
+        "5": "6 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G57.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G58",
+        "1": "74x1G58 ",
+        "2": "single configurable 7-function gate ",
+        "3": "schmitt trigger ",
+        "4": " ",
+        "5": "6 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G58.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G66",
+        "1": "74x1G66 ",
+        "2": "single SPST analog switch ",
+        "3": "analog ",
+        "4": "analog ",
+        "5": "5 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G66.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G74",
+        "1": "74x1G74 ",
+        "2": {
+            "title": "single D-type flip-flop, positive-edge trigger, Q &amp; Q outputs, asynchronous preset and clear ",
+            "url": "https:\/\/en.wikipedia.org\/wiki\/Flip-flop_(electronics)"
+        },
+        "3": " ",
+        "4": " ",
+        "5": "8 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G74.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G79",
+        "1": "74x1G79 ",
+        "2": "single D-type flip-flop, positive-edge trigger, Q output ",
+        "3": " ",
+        "4": " ",
+        "5": "5 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G79.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G80",
+        "1": "74x1G80 ",
+        "2": "single D-type flip-flop, positive-edge trigger, <span style=\"text-decoration:overline;\">Q<\/span> output ",
+        "3": " ",
+        "4": " ",
+        "5": "5 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G80.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G86",
+        "1": "74x1G86 ",
+        "2": {
+            "title": "single 2-input XOR gate (a.k.a. 2-bit even-parity generator) ",
+            "url": "https:\/\/en.wikipedia.org\/wiki\/Parity_(mathematics)"
+        },
+        "3": " ",
+        "4": " ",
+        "5": "5 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G86.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G97",
+        "1": "74x1G97 ",
+        "2": "single configurable 7-function gate ",
+        "3": "schmitt trigger ",
+        "4": " ",
+        "5": "6 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G97.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G98",
+        "1": "74x1G98 ",
+        "2": "single configurable 7-function gate ",
+        "3": "schmitt trigger ",
+        "4": " ",
+        "5": "6 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G98.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G99",
+        "1": "74x1G99 ",
+        "2": "single configurable 15-function gate, active-low enable ",
+        "3": "schmitt trigger ",
+        "4": "three-state ",
+        "5": "8 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G99.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G123",
+        "1": "74x1G123 ",
+        "2": {
+            "title": "single retriggerable monostable multivibrator, active-low clear ",
+            "url": "https:\/\/en.wikipedia.org\/wiki\/Monostable"
+        },
+        "3": " ",
+        "4": " ",
+        "5": "8 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G123.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G125",
+        "1": "74x1G125 ",
+        "2": "single buffer gate, active-low enable ",
+        "3": " ",
+        "4": "three-state ",
+        "5": "5 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G125.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G126",
+        "1": "74x1G126 ",
+        "2": "single buffer gate, active-high enable ",
+        "3": " ",
+        "4": "three-state ",
+        "5": "5 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G126.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G132",
+        "1": "74x1G132 ",
+        "2": "single 2-input NAND gate ",
+        "3": "schmitt trigger ",
+        "4": " ",
+        "5": "5 ",
+        "6": {
+            "title": "LVC ",
+            "url": "http:\/\/www.ti.com\/lit\/gpn\/sn74lvc1g132"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G139",
+        "1": "74x1G139 ",
+        "2": "single 2-to-4 line decoder, active low outputs ",
+        "3": " ",
+        "4": " ",
+        "5": "8 ",
+        "6": {
+            "title": "LVC ",
+            "url": "http:\/\/www.ti.com\/lit\/gpn\/sn74lvc1g139"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G157",
+        "1": "74x1G157 ",
+        "2": "single 2-input multiplexer ",
+        "3": "schmitt trigger ",
+        "4": " ",
+        "5": "6 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G157.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G158",
+        "1": "74x1G158 ",
+        "2": "single 2-input multiplexer, inverted output ",
+        "3": "schmitt trigger ",
+        "4": " ",
+        "5": "6 ",
+        "6": {
+            "title": "AUP ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74AUP1G158.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G175",
+        "1": "74x1G175 ",
+        "2": "single D-type flip-flop, positive-edge trigger, Q output, asynchronous clear ",
+        "3": " ",
+        "4": " ",
+        "5": "6 ",
+        "6": {
+            "title": "LVC ",
+            "url": "http:\/\/www.ti.com\/lit\/ds\/symlink\/sn74lvc1g175.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G240",
+        "1": "74x1G240 ",
+        "2": "single inverter gate, active-low enable ",
+        "3": " ",
+        "4": "three-state ",
+        "5": "5 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G240.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G332",
+        "1": "74x1G332 ",
+        "2": "single 3-input OR gate ",
+        "3": " ",
+        "4": " ",
+        "5": "6 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G332.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G373",
+        "1": "74x1G373 ",
+        "2": "single D-type transparent latch, negative-edge latching, Q output, active-low enable ",
+        "3": " ",
+        "4": "three-state ",
+        "5": "6 ",
+        "6": {
+            "title": "LVC ",
+            "url": "http:\/\/www.ti.com\/lit\/gpn\/sn74lvc1g373"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G374",
+        "1": "74x1G374 ",
+        "2": "single D-type flip-flop, positive-edge trigger, Q output, active-low enable ",
+        "3": " ",
+        "4": "three-state ",
+        "5": "6 ",
+        "6": {
+            "title": "LVC ",
+            "url": "http:\/\/www.ti.com\/lit\/gpn\/sn74lvc1g374"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G386",
+        "1": "74x1G386 ",
+        "2": "single 3-input XOR Gate (a.k.a. 3-bit even-parity generator) ",
+        "3": " ",
+        "4": " ",
+        "5": "6 ",
+        "6": {
+            "title": "LVC ",
+            "url": "https:\/\/assets.nexperia.com\/documents\/data-sheet\/74LVC1G386.pdf"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G0832",
+        "1": "74x1G0832 ",
+        "2": "single 3-input AND-OR combo gate (2-input AND into 2-input OR) ",
+        "3": "schmitt trigger ",
+        "4": " ",
+        "5": "6 ",
+        "6": {
+            "title": "LVC ",
+            "url": "http:\/\/www.ti.com\/lit\/gpn\/sn74lvc1g0832"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G3157",
+        "1": "74x1G3157 ",
+        "2": "single SPDT analog switch ",
+        "3": "analog ",
+        "4": "analog ",
+        "5": "6 ",
+        "6": {
+            "title": "LVC ",
+            "url": "http:\/\/www.ti.com\/lit\/gpn\/sn74lvc1g3157"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    },
+    {
+        "0": "741G3208",
+        "1": "74x1G3208 ",
+        "2": "single 3-input OR-AND combo gate (2-input OR into 2-input AND) ",
+        "3": "schmitt trigger ",
+        "4": " ",
+        "5": "6 ",
+        "6": {
+            "title": "LVC ",
+            "url": "http:\/\/www.ti.com\/lit\/gpn\/sn74lvc1g3208"
+        },
+        "99": "7400_TTL_One_Gate_Chips"
+    }
+]

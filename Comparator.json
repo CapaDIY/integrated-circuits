@@ -1,0 +1,62 @@
+[
+    {
+        "id": "37",
+        "partnumber": "MC1414P",
+        "number": "1414",
+        "units": null,
+        "description": "Dual Differential Voltage Comparator",
+        "input": null,
+        "output": null,
+        "pins": null,
+        "package": null,
+        "mounting": "THT",
+        "datasheet": "http:\/\/pdf.datasheetcatalog.com\/datasheet_pdf\/motorola\/MC1414D_to_MC1514L.pdf\r",
+        "manufacturer": "",
+        "class": "Comparator"
+    },
+    {
+        "id": "24",
+        "partnumber": "LM311",
+        "number": "311",
+        "units": null,
+        "description": "Differential Comparator",
+        "input": null,
+        "output": null,
+        "pins": null,
+        "package": null,
+        "mounting": "THT",
+        "datasheet": "https:\/\/www.ti.com\/lit\/ds\/symlink\/lm311.pdf\r",
+        "manufacturer": "",
+        "class": "Comparator "
+    },
+    {
+        "id": "27",
+        "partnumber": "LM339",
+        "number": "339",
+        "units": null,
+        "description": "Quad Differential Comparators",
+        "input": null,
+        "output": null,
+        "pins": null,
+        "package": null,
+        "mounting": "THT",
+        "datasheet": "https:\/\/www.ti.com\/lit\/ds\/symlink\/lm339.pdf\r",
+        "manufacturer": "",
+        "class": "Comparator "
+    },
+    {
+        "id": "29",
+        "partnumber": "LM361",
+        "number": "361",
+        "units": null,
+        "description": "High Speed Differential Comparators",
+        "input": null,
+        "output": null,
+        "pins": null,
+        "package": null,
+        "mounting": "THT",
+        "datasheet": "https:\/\/www.ti.com\/lit\/ds\/symlink\/lm361.pdf\r",
+        "manufacturer": "",
+        "class": "Comparator "
+    }
+]
